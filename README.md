@@ -5,7 +5,7 @@ This is the documentation of our process of design and fabrication of a solar ov
 
 
 ### Concept & propose
-Our research and areas of interest goes towards "slowing down" our way of life, promoting a resilient lifestyle and bring more awareness.
+Our research and areas of interest are about "slowing down" our way of life, promoting a resilient lifestyle and bring more awareness.
 <br>In that context, we already started experimenting with different low techs related to food (production or preparation).
 <br>For this first challenge, we decided to continue in that direction and create a solar oven.
 
