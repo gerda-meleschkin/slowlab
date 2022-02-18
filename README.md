@@ -75,8 +75,8 @@ Our research and areas of interest are about "slowing down" our way of life, pro
 
 ## Future development opportunities
 we could experiment to cook food with the oven and measure the temperature inside and outside of the oven at the same time.
-IG Slow Lab
-Website
+Instagramm Slow Lab
+Website Slow Lab
 
 ## Files
 
