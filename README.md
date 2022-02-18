@@ -30,6 +30,9 @@ Our research and areas of interest are about "slowing down" our way of life, pro
 
 <br>
 
+<img src="images/system_solaroven.jpg">
+
+
 ## Fabrication process
 ### Lasercutting 
 
