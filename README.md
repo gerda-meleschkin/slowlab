@@ -74,12 +74,15 @@ Our research and areas of interest are about "slowing down" our way of life, pro
 
 
 ## Future development opportunities
-we could experiment to cook food with the oven and measure the temperature inside and outside of the oven at the same time.
-Instagramm Slow Lab
-Website Slow Lab
+- cooking experiment with the oven & measure the temperature inside & outside of the oven at the same time.
+- Instagramm Slow Lab
+- Website Slow Lab
 
 ## Files
-
+- Inner box 
+- Outer box
+- Sheets
+- Label
 
 ## Our personal websites
 - Gerda Meleschkin https://gerda-meleschkin.github.io/newwebsite/fabacademy/fabacademy.html
