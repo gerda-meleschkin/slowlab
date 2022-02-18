@@ -26,10 +26,7 @@ Our research and areas of interest are about "slowing down" our way of life, pro
   <img src="images/scetch2.jpg" width="500" />
 </p>
 
-*sketching*
-
 <img src="images/lightresearch.jpg">
-*light reflection simulation*
 
 <br>
 
@@ -80,12 +77,14 @@ Our research and areas of interest are about "slowing down" our way of life, pro
 
 ## Final Solar Oven
 
+<p float="left">
+  <img src="images/final1.jpg" width="250" />
+  <img src="images/final2.jpg" width="250" />
+  <img src="images/final3.jpg" width="250" />
+  <img src="images/final4.jpg" width="250" />
+</p>
+
 <br>
-
-
-## Challenges & iterations
-- 
-
 
 
 ## Material needed
@@ -96,10 +95,9 @@ Our research and areas of interest are about "slowing down" our way of life, pro
 <br>
 
 ## Future development opportunities
-- Experiment Cooking with the oven & measure the temperature inside & outside of the oven at the same time.
-- Iterate on the design to generate the maximum heat
-
-*You can find more low-tech experiments on our Instagram account (@slowlab.bcn) and soon on our website.*
+- cooking experiment with the oven & measure the temperature inside & outside of the oven at the same time.
+- Instagramm Slow Lab
+- Website Slow Lab
 
 <br>
 
