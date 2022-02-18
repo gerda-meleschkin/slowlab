@@ -42,6 +42,7 @@ _light reflection simulation_
   <img src="images/gerda.jpg" width="330" />
 </p>
 
+
 - Power : 60
 - Speed: 0.5
 - Frequency: 1000
@@ -52,6 +53,9 @@ _light reflection simulation_
   <img src="images/videosilver.gif" width="500" />
   <img src="images/videogold.gif" width="500" />
 </p>
+
+
+It was the first time we used the method cutting parts with the vinyl cutter, so we wanted to implimend it into our design. We tried first cutting an emergeny blanket, but this material is very fragile and thin. So we could cut it with an extra sticky board, but after removing it it broked very fast. So we wanted to find another material which we could laser cut, so one sight has to be not reflective, but the we figured out that we cannot laser the foam. So we tried to cut the foam with th vinyl cutter and it worked pretty good! Also when cutting letters it worked very exact.  
 
 - Force: 25
 - Speed: 5
