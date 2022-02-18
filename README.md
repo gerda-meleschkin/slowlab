@@ -25,9 +25,12 @@ Our research and areas of interest are about "slowing down" our way of life, pro
   <img src="images/scetch1.jpg" width="500" />
   <img src="images/scetch2.jpg" width="500" />
 </p>
-
+*sketching*
+<br>
 <img src="images/lightresearch.jpg">
+*light reflection simulation*
 
+<br>
 <br>
 
 <img src="images/system_solaroven.jpg">
@@ -36,11 +39,14 @@ Our research and areas of interest are about "slowing down" our way of life, pro
 ## Fabrication process
 ### Lasercutting 
 
+We created 4 different parametric designs: The outer box, the inner box, two big rules and 8 small one. We used different kind  of techniques like press fit and kerf bending.
+
 <p float="left">
   <img src="images/laser.jpg" width="330" />
   <img src="images/laser2.JPG" width="330" />
   <img src="images/gerda.jpg" width="330" />
 </p>
+
 
 - Power : 60
 - Speed: 0.5
@@ -48,10 +54,13 @@ Our research and areas of interest are about "slowing down" our way of life, pro
 
 ### Vinyl cutter
 
+It was the first time we used the method cutting parts with the vinyl cutter, so we wanted to implemend it into our design. We tried first cutting an emergeny blanket, but this material is very fragile and thin. So we could cut it with an extra sticky board, but after removing it it broked very fast. So we wanted to find another material which we could laser cut, so one sight has to be not reflective, but the we figured out that we cannot laser the foam. So we tried to cut the foam with th vinyl cutter and it worked pretty good! Also when cutting letters it worked very exact.  
+
 <p float="left">
   <img src="images/videosilver.gif" width="500" />
   <img src="images/videogold.gif" width="500" />
 </p>
+
 
 - Force: 25
 - Speed: 5
@@ -76,6 +85,8 @@ Our research and areas of interest are about "slowing down" our way of life, pro
 <br>
 
 ## Final Solar Oven
+
+The solar oven is ready to use! 
 
 <p float="left">
   <img src="images/final1.jpg" width="240" />
@@ -106,6 +117,9 @@ Our research and areas of interest are about "slowing down" our way of life, pro
 - <a href="https://github.com/gerda-meleschkin/slowlab/blob/main/files/slowlab_solaroven_outside_box.dxf">Outer box</a>
 - <a href="https://github.com/gerda-meleschkin/slowlab/blob/main/files/Sheets%20-%20solar%20oven.dxf">Sheets</a>
 - <a href="https://github.com/gerda-meleschkin/slowlab/blob/main/files/Slow%20lab%20writing.dxf">Label</a>
+
+<br>
+
 
 <br>
 
