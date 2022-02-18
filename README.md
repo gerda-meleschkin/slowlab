@@ -81,8 +81,8 @@ Our research and areas of interest are about "slowing down" our way of life, pro
 ## Files
 - Inner box https://github.com/gerda-meleschkin/slowlab/blob/main/files/Inner%20box%20-%20solar%20oven%20v4.dxf
 - Outer box
-- Sheets
-- Label
+- Sheets 
+- Label https://github.com/gerda-meleschkin/slowlab/blob/main/files/Slow%20lab%20writing.dxf
 
 ## Our personal websites
 - Gerda Meleschkin https://gerda-meleschkin.github.io/newwebsite/fabacademy/fabacademy.html
