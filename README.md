@@ -109,6 +109,12 @@ Our research and areas of interest are about "slowing down" our way of life, pro
 
 <br>
 
+
+## Main learning
+- 
+
+<br>
+
 ## Our personal websites
 - <a href="https://audrey-belliot.github.io/mdef/fabacademy.html">Audrey Belliot</a>
 - <a href="https://gerda-meleschkin.github.io/newwebsite/fabacademy/fabacademy.html">Gerda Meleschkin</a>
