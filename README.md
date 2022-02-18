@@ -39,12 +39,20 @@ Our research and areas of interest are about "slowing down" our way of life, pro
   <img src="images/gerda.jpg" width="330" />
 </p>
 
+- Power : 60
+- Speed: 0.5
+- Frequency: 1000
+
 ### Vinyl cutter
 
 <p float="left">
   <img src="images/videosilver.gif" width="500" />
   <img src="images/videogold.gif" width="500" />
 </p>
+
+- Force: 25
+- Speed: 5
+- Blade: 8
 
 #### First Material: Emergency blanket
 
