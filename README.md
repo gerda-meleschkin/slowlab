@@ -78,10 +78,10 @@ Our research and areas of interest are about "slowing down" our way of life, pro
 ## Final Solar Oven
 
 <p float="left">
-  <img src="images/final1.jpg" width="250" />
-  <img src="images/final2.jpg" width="250" />
-  <img src="images/final3.jpg" width="250" />
-  <img src="images/final4.jpg" width="250" />
+  <img src="images/final1.jpg" width="240" />
+  <img src="images/final2.jpg" width="240" />
+  <img src="images/final3.jpg" width="240" />
+  <img src="images/final4.jpg" width="240" />
 </p>
 
 <br>
