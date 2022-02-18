@@ -14,6 +14,8 @@ Our research and areas of interest are about "slowing down" our way of life, pro
   <img src="images/projectdevelopment.jpg" width="500" />
 </p>
 
+<br>
+
 ## Planning
 - Day 1 : Kick-off of the challenge on Wednesday 16th. Brainstorming, inspiration by analyzing the various existing techniques for solar ovens, simulation of the sun beams and their reflection.
 - Day 2 : Sketching the solution.<br> Separation of the tasks for the 2D design : Gerda designed the inside part with the reflecting panels and Audrey the outside box. <br>Laser cutting the inside part and vinyl cutting the reflecting panels. 
@@ -26,10 +28,12 @@ Our research and areas of interest are about "slowing down" our way of life, pro
 
 <img src="images/lightresearch.jpg">
 
+<br>
+
+<img src="images/system_solaroven.jpg">
+
 
 ## Fabrication process
-
-
 ### Lasercutting 
 
 <p float="left">
@@ -38,12 +42,20 @@ Our research and areas of interest are about "slowing down" our way of life, pro
   <img src="images/gerda.jpg" width="330" />
 </p>
 
+- Power : 60
+- Speed: 0.5
+- Frequency: 1000
+
 ### Vinyl cutter
 
 <p float="left">
   <img src="images/videosilver.gif" width="500" />
   <img src="images/videogold.gif" width="500" />
 </p>
+
+- Force: 25
+- Speed: 5
+- Blade: 8
 
 #### First Material: Emergency blanket
 
@@ -61,10 +73,11 @@ Our research and areas of interest are about "slowing down" our way of life, pro
   <img src="images/silversheet.jpg" width="330" /> 
 </p>
 
+<br>
+
 ## Final Solar Oven
 
-
-## Test in the sun
+<br>
 
 
 ## Material needed
@@ -72,16 +85,24 @@ Our research and areas of interest are about "slowing down" our way of life, pro
 - Rope for the extension of the panels
 - Foil paper or emergency blanket for the reflecting panels
 
+<br>
 
 ## Future development opportunities
-we could experiment to cook food with the oven and measure the temperature inside and outside of the oven at the same time.
-IG Slow Lab
-Website
+- cooking experiment with the oven & measure the temperature inside & outside of the oven at the same time.
+- Instagramm Slow Lab
+- Website Slow Lab
+
+<br>
 
 ## Files
+- <a href="https://github.com/gerda-meleschkin/slowlab/blob/main/files/Inner%20box%20-%20solar%20oven%20v4.dxf">Inner box</a>
+- <a href="https://github.com/gerda-meleschkin/slowlab/blob/main/files/slowlab_solaroven_outside_box.dxf">Outer box</a>
+- <a href="https://github.com/gerda-meleschkin/slowlab/blob/main/files/Sheets%20-%20solar%20oven.dxf">Sheets</a>
+- <a href="https://github.com/gerda-meleschkin/slowlab/blob/main/files/Slow%20lab%20writing.dxf">Label</a>
 
+<br>
 
 ## Our personal websites
-- Gerda Meleschkin https://gerda-meleschkin.github.io/newwebsite/fabacademy/fabacademy.html
-- Audrey Belliot https://audrey-belliot.github.io/mdef/fabacademy.html
+- <a href="https://audrey-belliot.github.io/mdef/fabacademy.html">Audrey Belliot</a>
+- <a href="https://gerda-meleschkin.github.io/newwebsite/fabacademy/fabacademy.html">Gerda Meleschkin</a>
 
