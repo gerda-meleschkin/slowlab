@@ -18,23 +18,24 @@ Our research and areas of interest are about "slowing down" our way of life, pro
 
 ## Planning
 - Day 1 : Kick-off of the challenge on Wednesday 16th. Brainstorming, inspiration by analyzing the various existing techniques for solar ovens, simulation of the sun beams and their reflection.
-- Day 2 : Sketching the solution.<br> Separation of the tasks for the 2D design : Gerda designed the inside part with the reflecting panels and Audrey the outside box. <br>Laser cutting the inside part and vinyl cutting the reflecting panels. 
+- Day 2 : Sketching the solution.<br> Separation of the tasks for the 2D design : Gerda designed the inside part with the reflecting panels and Audrey the outside box. <br>Laser cutting the inside part and vinyl cutting the reflecting panels.
 - Day 3 : Laser cutting the outside box.
 
 <p float="left">
   <img src="images/scetch1.jpg" width="500" />
   <img src="images/scetch2.jpg" width="500" />
 </p>
+*sketching*
 
 <img src="images/lightresearch.jpg">
-
+*light reflection simulation with https://ricktu288.github.io/ray-optics/simulator/?en*
 <br>
 
 <img src="images/system_solaroven.jpg">
 
 
 ## Fabrication process
-### Lasercutting 
+### Lasercutting
 
 <p float="left">
   <img src="images/laser.jpg" width="330" />
@@ -62,7 +63,7 @@ Our research and areas of interest are about "slowing down" our way of life, pro
 <p float="left">
   <img src="images/goldmaterial.jpg" width="330" />
   <img src="images/goldsheet.jpg" width="330" />
-  <img src="images/goldready.jpg" width="330" /> 
+  <img src="images/goldready.jpg" width="330" />
 </p>
 
 #### Second Material: Reflective Foam
@@ -70,7 +71,7 @@ Our research and areas of interest are about "slowing down" our way of life, pro
 <p float="left">
   <img src="images/silvermaterial.JPG" width="330" />
   <img src="images/audrey.jpg" width="330" />
-  <img src="images/silversheet.jpg" width="330" /> 
+  <img src="images/silversheet.jpg" width="330" />
 </p>
 
 <br>
@@ -81,7 +82,7 @@ Our research and areas of interest are about "slowing down" our way of life, pro
 
 
 ## Challenges & iterations
-- 
+-
 
 
 
@@ -111,4 +112,3 @@ Our research and areas of interest are about "slowing down" our way of life, pro
 ## Our personal websites
 - <a href="https://audrey-belliot.github.io/mdef/fabacademy.html">Audrey Belliot</a>
 - <a href="https://gerda-meleschkin.github.io/newwebsite/fabacademy/fabacademy.html">Gerda Meleschkin</a>
-
