@@ -29,9 +29,10 @@ Our research and areas of interest are about "slowing down" our way of life, pro
 <br>
 <img src="images/lightresearch.jpg">
 *light reflection simulation*
+
 <br>
 <br>
-## System diagram
+
 <img src="images/system_solaroven.jpg">
 
 
@@ -119,9 +120,6 @@ The solar oven is ready to use!
 
 <br>
 
-
-## Main learning
-- 
 
 <br>
 
