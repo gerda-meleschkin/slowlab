@@ -108,9 +108,10 @@ The solar oven is ready to use!
 <br>
 
 ## Future development opportunities
-- cooking experiment with the oven & measure the temperature inside & outside of the oven at the same time.
-- Instagramm Slow Lab
-- Website Slow Lab
+- Improve the design to find the perfect angle to maximize temperature
+- Experiment cooking with the oven & measure the temperature inside & outside of the oven at the same time.
+ 
+You can fin more of our low-tech experiments on our Instagram account @slowlab.bcn and soon on our website
 
 <br>
 
