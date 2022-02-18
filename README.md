@@ -58,7 +58,7 @@ Our research and areas of interest are about "slowing down" our way of life, pro
 <p float="left">
   <img src="images/silvermaterial.JPG" width="330" />
   <img src="images/audrey.jpg" width="330" />
-  <img src="images/silversheet.JPG" width="330" /> 
+  <img src="images/silversheet.jpg" width="330" /> 
 </p>
 
 ## Final Solar Oven
