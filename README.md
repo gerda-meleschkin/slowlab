@@ -79,7 +79,7 @@ Our research and areas of interest are about "slowing down" our way of life, pro
 - Website Slow Lab
 
 ## Files
-- Inner box 
+- Inner box https://github.com/gerda-meleschkin/slowlab/blob/main/files/Inner%20box%20-%20solar%20oven%20v4.dxf
 - Outer box
 - Sheets
 - Label
