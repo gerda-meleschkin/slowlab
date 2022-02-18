@@ -25,9 +25,9 @@ Our research and areas of interest are about "slowing down" our way of life, pro
   <img src="images/scetch1.jpg" width="500" />
   <img src="images/scetch2.jpg" width="500" />
 </p>
-*sketching*
+_sketching_
 <img src="images/lightresearch.jpg">
-*light reflection simulation*
+_light reflection simulation_
 <br>
 
 <img src="images/system_solaroven.jpg">
