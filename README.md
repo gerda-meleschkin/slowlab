@@ -25,11 +25,13 @@ Our research and areas of interest are about "slowing down" our way of life, pro
   <img src="images/scetch1.jpg" width="500" />
   <img src="images/scetch2.jpg" width="500" />
 </p>
-_sketching_
-<img src="images/lightresearch.jpg">
-_light reflection simulation_
+*sketching*
 <br>
-
+<img src="images/lightresearch.jpg">
+*light reflection simulation*
+<br>
+<br>
+## System diagram
 <img src="images/system_solaroven.jpg">
 
 
@@ -51,7 +53,7 @@ We created 4 different parametric designs: The outer box, the inner box, two big
 
 ### Vinyl cutter
 
-It was the first time we used the method cutting parts with the vinyl cutter, so we wanted to implimend it into our design. We tried first cutting an emergeny blanket, but this material is very fragile and thin. So we could cut it with an extra sticky board, but after removing it it broked very fast. So we wanted to find another material which we could laser cut, so one sight has to be not reflective, but the we figured out that we cannot laser the foam. So we tried to cut the foam with th vinyl cutter and it worked pretty good! Also when cutting letters it worked very exact.  
+It was the first time we used the method cutting parts with the vinyl cutter, so we wanted to implemend it into our design. We tried first cutting an emergeny blanket, but this material is very fragile and thin. So we could cut it with an extra sticky board, but after removing it it broked very fast. So we wanted to find another material which we could laser cut, so one sight has to be not reflective, but the we figured out that we cannot laser the foam. So we tried to cut the foam with th vinyl cutter and it worked pretty good! Also when cutting letters it worked very exact.  
 
 <p float="left">
   <img src="images/videosilver.gif" width="500" />
