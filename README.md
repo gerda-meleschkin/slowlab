@@ -39,12 +39,20 @@ Our research and areas of interest are about "slowing down" our way of life, pro
   <img src="images/gerda.jpg" width="330" />
 </p>
 
+- Power : 60
+- Speed: 0.5
+- Frequency: 1000
+
 ### Vinyl cutter
 
 <p float="left">
   <img src="images/videosilver.gif" width="500" />
   <img src="images/videogold.gif" width="500" />
 </p>
+
+- Force: 25
+- Speed: 5
+- Blade: 8
 
 #### First Material: Emergency blanket
 
@@ -84,16 +92,14 @@ Our research and areas of interest are about "slowing down" our way of life, pro
 <br>
 
 ## Files
-- Inner box https://github.com/gerda-meleschkin/slowlab/blob/main/files/Inner%20box%20-%20solar%20oven%20v4.dxf
-- Inner box <link rel="stylesheet" href="https://github.com/gerda-meleschkin/slowlab/blob/main/files/Inner%20box%20-%20solar%20oven%20v4.dxf"/>
-- [Inner box] (https://github.com/gerda-meleschkin/slowlab/blob/main/files/Inner%20box%20-%20solar%20oven%20v4.dxf)
-- Outer box https://github.com/gerda-meleschkin/slowlab/blob/main/files/slowlab_solaroven_outside_box.dxf
-- Sheets https://github.com/gerda-meleschkin/slowlab/blob/main/files/Sheets%20-%20solar%20oven.dxf
-- Label https://github.com/gerda-meleschkin/slowlab/blob/main/files/Slow%20lab%20writing.dxf
+- <a href="https://github.com/gerda-meleschkin/slowlab/blob/main/files/Inner%20box%20-%20solar%20oven%20v4.dxf">Inner box</a>
+- <a href="https://github.com/gerda-meleschkin/slowlab/blob/main/files/slowlab_solaroven_outside_box.dxf">Outer box</a>
+- <a href="https://github.com/gerda-meleschkin/slowlab/blob/main/files/Sheets%20-%20solar%20oven.dxf">Sheets</a>
+- <a href="https://github.com/gerda-meleschkin/slowlab/blob/main/files/Slow%20lab%20writing.dxf">Label</a>
 
 <br>
 
 ## Our personal websites
-- Gerda Meleschkin https://gerda-meleschkin.github.io/newwebsite/fabacademy/fabacademy.html
-- Audrey Belliot https://audrey-belliot.github.io/mdef/fabacademy.html
+- <a href="https://audrey-belliot.github.io/mdef/fabacademy.html">Audrey Belliot</a>
+- <a href="https://gerda-meleschkin.github.io/newwebsite/fabacademy/fabacademy.html">Gerda Meleschkin</a>
 
