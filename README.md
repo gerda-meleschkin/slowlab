@@ -1,3 +1,5 @@
+  <img src="images/slowlab_logo.jpg"/>
+
 # Solar oven  by the Slow Lab
 ### by Gerda Meleschkin and Audrey Belliot
 
