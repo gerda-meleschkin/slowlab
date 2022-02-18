@@ -80,6 +80,11 @@ Our research and areas of interest are about "slowing down" our way of life, pro
 <br>
 
 
+## Challenges & iterations
+- 
+
+
+
 ## Material needed
 - MDF or plywood for the inside and outside parts (size)
 - Rope for the extension of the panels
@@ -88,9 +93,10 @@ Our research and areas of interest are about "slowing down" our way of life, pro
 <br>
 
 ## Future development opportunities
-- cooking experiment with the oven & measure the temperature inside & outside of the oven at the same time.
-- Instagramm Slow Lab
-- Website Slow Lab
+- Experiment Cooking with the oven & measure the temperature inside & outside of the oven at the same time.
+- Iterate on the design to generate the maximum heat
+
+*You can find more low-tech experiments on our Instagram account (@slowlab.bcn) and soon on our website.*
 
 <br>
 
