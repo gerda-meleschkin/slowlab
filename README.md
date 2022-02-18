@@ -14,6 +14,8 @@ Our research and areas of interest are about "slowing down" our way of life, pro
   <img src="images/projectdevelopment.jpg" width="500" />
 </p>
 
+<br>
+
 ## Planning
 - Day 1 : Kick-off of the challenge on Wednesday 16th. Brainstorming, inspiration by analyzing the various existing techniques for solar ovens, simulation of the sun beams and their reflection.
 - Day 2 : Sketching the solution.<br> Separation of the tasks for the 2D design : Gerda designed the inside part with the reflecting panels and Audrey the outside box. <br>Laser cutting the inside part and vinyl cutting the reflecting panels. 
@@ -26,10 +28,9 @@ Our research and areas of interest are about "slowing down" our way of life, pro
 
 <img src="images/lightresearch.jpg">
 
+<br>
 
 ## Fabrication process
-
-
 ### Lasercutting 
 
 <p float="left">
@@ -61,28 +62,38 @@ Our research and areas of interest are about "slowing down" our way of life, pro
   <img src="images/silversheet.jpg" width="330" /> 
 </p>
 
+<br>
+
 ## Final Solar Oven
+
+<br>
 
 
 ## Test in the sun
 
+<br>
 
 ## Material needed
 - MDF or plywood for the inside and outside parts (size)
 - Rope for the extension of the panels
 - Foil paper or emergency blanket for the reflecting panels
 
+<br>
 
 ## Future development opportunities
 - cooking experiment with the oven & measure the temperature inside & outside of the oven at the same time.
 - Instagramm Slow Lab
 - Website Slow Lab
 
+<br>
+
 ## Files
 - Inner box https://github.com/gerda-meleschkin/slowlab/blob/main/files/Inner%20box%20-%20solar%20oven%20v4.dxf
 - Outer box
 - Sheets https://github.com/gerda-meleschkin/slowlab/blob/main/files/Sheets%20-%20solar%20oven.dxf
 - Label https://github.com/gerda-meleschkin/slowlab/blob/main/files/Slow%20lab%20writing.dxf
+
+<br>
 
 ## Our personal websites
 - Gerda Meleschkin https://gerda-meleschkin.github.io/newwebsite/fabacademy/fabacademy.html
