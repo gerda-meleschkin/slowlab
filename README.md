@@ -20,7 +20,7 @@ Our research and areas of interest are about "slowing down" our way of life, pro
 
 ## Planning
 - Day 1 : Kick-off of the challenge on Wednesday 16th. Brainstorming, inspiration by analyzing the various existing techniques for solar ovens, simulation of the sun beams and their reflection.
-- Day 2 : Sketching the solution.<br> Separation of the tasks for the 2D design : Gerda designed the inside part with the reflecting panels and Audrey the outside box. <br>Laser cutting the inside part and vinyl cutting the reflecting panels. 
+- Day 2 : Sketching the solution.<br> Separation of the tasks for the 2D design : Gerda designed the inside part with the reflecting panels and Audrey the outside box. <br>Laser cutting the inside part and vinyl cutting the reflecting panels.
 - Day 3 : Laser cutting the outside box.
 
 <p float="left">
@@ -30,7 +30,7 @@ Our research and areas of interest are about "slowing down" our way of life, pro
 *sketching*
 <br>
 <img src="images/lightresearch.jpg">
-*light reflection simulation*
+*light reflection simulation* on <a href="https://ricktu288.github.io/ray-optics/simulator/?en">this website</a>.
 
 <br>
 <br>
@@ -39,9 +39,9 @@ Our research and areas of interest are about "slowing down" our way of life, pro
 
 
 ## Fabrication process
-### Lasercutting 
+### Lasercutting
 
-We created 4 different parametric designs: The outer box, the inner box, two big rules and 8 small one. We used different kind  of techniques like press fit and kerf bending.
+We created 4 different parametric designs: The outer box, the inner box, two big rules and 8 small ones. We used different kind of techniques like press fit and kerf bending.
 
 <p float="left">
   <img src="images/laser.jpg" width="330" />
@@ -73,7 +73,7 @@ It was the first time we used the method cutting parts with the vinyl cutter, so
 <p float="left">
   <img src="images/goldmaterial.jpg" width="330" />
   <img src="images/goldsheet.jpg" width="330" />
-  <img src="images/goldready.jpg" width="330" /> 
+  <img src="images/goldready.jpg" width="330" />
 </p>
 
 #### Second Material: Reflective Foam
@@ -81,14 +81,14 @@ It was the first time we used the method cutting parts with the vinyl cutter, so
 <p float="left">
   <img src="images/silvermaterial.JPG" width="330" />
   <img src="images/audrey.jpg" width="330" />
-  <img src="images/silversheet.jpg" width="330" /> 
+  <img src="images/silversheet.jpg" width="330" />
 </p>
 
 <br>
 
 ## Final Solar Oven
 
-The solar oven is ready to use! 
+The solar oven is ready to use!
 
 <p float="left">
   <img src="images/final1.jpg" width="240" />
@@ -110,7 +110,7 @@ The solar oven is ready to use!
 ## Future development opportunities
 - Improve the design to find the perfect angle to maximize temperature
 - Experiment cooking with the oven & measure the temperature inside & outside of the oven at the same time.
- 
+
 You can fin more of our low-tech experiments on our Instagram account @slowlab.bcn and soon on our website
 
 <br>
@@ -129,4 +129,3 @@ You can fin more of our low-tech experiments on our Instagram account @slowlab.b
 ## Our personal websites
 - <a href="https://audrey-belliot.github.io/mdef/fabacademy.html">Audrey Belliot</a>
 - <a href="https://gerda-meleschkin.github.io/newwebsite/fabacademy/fabacademy.html">Gerda Meleschkin</a>
-
