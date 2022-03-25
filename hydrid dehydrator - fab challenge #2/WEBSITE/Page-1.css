@@ -1095,12 +1095,12 @@
     margin-right: calc(((100% - 340px) / 2));
   }
 }.u-section-6 .u-sheet-1 {
-  min-height: 1094px;
+  min-height: 1548px;
 }
 
 .u-section-6 .u-layout-wrap-1 {
   width: 1109px;
-  margin: 60px auto;
+  margin: 60px auto 0;
 }
 
 .u-section-6 .u-image-1 {
@@ -1150,13 +1150,19 @@
 
 .u-section-6 .u-image-3 {
   min-height: 417px;
-  background-image: url("images/WhatsAppImage2022-03-25at5.04.20PM-26.jpeg");
+  background-image: url("images/WhatsAppImage2022-03-25at5.04.20PM-22.jpeg");
   background-position: 50% 50%;
+}
+
+.u-section-6 .u-image-4 {
+  width: 780px;
+  height: 532px;
+  margin: 0 auto 30px 161px;
 }
 
 @media (max-width: 1199px) {
   .u-section-6 .u-sheet-1 {
-    min-height: 100px;
+    min-height: 1402px;
   }
 
   .u-section-6 .u-layout-wrap-1 {
@@ -1194,11 +1200,15 @@
   .u-section-6 .u-image-3 {
     min-height: 323px;
   }
+
+  .u-section-6 .u-image-4 {
+    margin-left: 160px;
+  }
 }
 
 @media (max-width: 991px) {
   .u-section-6 .u-sheet-1 {
-    min-height: 976px;
+    min-height: 1171px;
   }
 
   .u-section-6 .u-layout-wrap-1 {
@@ -1240,11 +1250,17 @@
   .u-section-6 .u-image-3 {
     min-height: 270px;
   }
+
+  .u-section-6 .u-image-4 {
+    width: 720px;
+    height: 491px;
+    margin-left: 0;
+  }
 }
 
 @media (max-width: 767px) {
   .u-section-6 .u-sheet-1 {
-    min-height: 100px;
+    min-height: 1896px;
   }
 
   .u-section-6 .u-layout-wrap-1 {
@@ -1278,9 +1294,18 @@
     min-height: 312px;
     order: 0;
   }
+
+  .u-section-6 .u-image-4 {
+    width: 540px;
+    height: 368px;
+  }
 }
 
 @media (max-width: 575px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 1253px;
+  }
+
   .u-section-6 .u-layout-wrap-1 {
     width: 340px;
   }
@@ -1313,6 +1338,11 @@
 
   .u-section-6 .u-image-3 {
     min-height: 196px;
+  }
+
+  .u-section-6 .u-image-4 {
+    width: 340px;
+    height: 232px;
   }
 } .u-section-7 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/6c462005a9065b745da25e5ad667fef051a65096b1954aeda4e81b11e9329dd828a481ec7895c60f432529aeeb389d860ed6312ea91146bdb4289c_1280.jpg");
@@ -1712,7 +1742,7 @@
 
 .u-section-9 .u-image-2 {
   min-height: 392px;
-  background-image: url("images/IMG-20220324-WA0069.jpg");
+  background-image: url("images/IMG-20220324-WA0069-24.jpg");
   background-position: 50% 50%;
 }
 
