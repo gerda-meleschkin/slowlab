@@ -4,7 +4,6 @@
 ### by Julia, Fiorella, Gerda, Audrey and Roberto
 
 
-=======
 This is the documentation of our process of design and fabrication of a hydrid food dehydrator for FabAcademy microchallenge #2
 
 Preview:
