@@ -13,8 +13,8 @@ https://htmlpreview.github.io/?https://github.com/gerda-meleschkin/slowlab/blob/
 ## Files
 
 Electronics:
-- <a href="challenge #2\ELECTRONICS\fabchallenge2_dryer">dehydrator</a>
-- <a href="hydrid dehydrator - fab challenge #2\ELECTRONICS\fabchallenge2_incubator">incubator </a>
+- <a href="ELECTRONICS\fabchallenge2_dryer">dehydrator</a>
+- <a href="ELECTRONICS\fabchallenge2_incubator">incubator </a>
 
 Boxes design:
 -
