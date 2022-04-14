@@ -14,7 +14,14 @@ https://htmlpreview.github.io/?https://github.com/gerda-meleschkin/slowlab/blob/
 
 Electronics:
 - <a href="ELECTRONICS\fabchallenge2_dryer">dehydrator</a>
-- <a href="ELECTRONICS\fabchallenge2_incubator">incubator </a>
+- <a href="ELECTRONICS\fabchallenge2_incubator">incubator</a>
 
 Boxes design:
--
+
+
+## Our personal websites
+- <a href="https://julia-steketee.webflow.io/fabacademy">Julia Steketee</a>
+- <a href="https://fiorella-jaramillo.github.io/fmjg/">Fiorella Jaramillo</a>
+- <a href="https://roberto-broce.github.io/MDEF-website/fabacademy.html#portfolio">Roberto Broce</a>
+- <a href="https://audrey-belliot.github.io/mdef/fabacademy.html">Audrey Belliot</a>
+- <a href="https://gerda-meleschkin.github.io/newwebsite/fabacademy/fabacademy.html">Gerda Meleschkin</a>
