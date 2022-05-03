@@ -7,6 +7,10 @@ This is the documentation of our process of design and fabrication of a solar ov
 
 
 ## Concept & purpose
+*How is this linked to your research areas?
+Initial idea / concept of the project (what questions need to be answered?)
+Propose (what is it supposed to do or not to do)
+
 text here
 
 <p float="left">
@@ -17,6 +21,7 @@ text here
 <br>
 
 ## Planning
+*Show how your team planned and executed the project.
 - Day 1: text here
 - Day 2: text here
 - Day 3: text here
@@ -31,6 +36,7 @@ text here
 <img src="images/lightresearch.jpg">
 *light reflection simulation* on <a href="https://ricktu288.github.io/ray-optics/simulator/?en">this website</a>.
 
+*System diagram (illustration explaining function, parts and relations)
 <br>
 <br>
 
@@ -38,6 +44,15 @@ text here
 
 
 ## Fabrication process
+
+### Design 
+*Integrated design (how you designed it-relation between elements)
+*Honest Design (use of technology in a meaningful way, in relation to the topics)
+*Be creative, find solutions with materials and technology you have. 
+*Explore design boundaries (base on your expertise)
+
+Text here
+
 ### Electronics
 
 text here
@@ -49,7 +64,8 @@ text here
 </p>
 
 
-### text here
+### Process
+*How did you fabricate it (process and materials)
 
 text here  
 
@@ -70,7 +86,7 @@ text here
 <br>
 
 
-## Material needed
+### Material Needed
 - text here
 - text here
 
@@ -78,12 +94,24 @@ text here
 <br>
 
 ## Future development opportunities
+*Listed future development opportunities for this project
 - text here
 - text here
 
 <br>
 
+## Build of Materials
+Iteration process, spiral development
+
+Text
+
+## Setbacks
+Described problems and how the team solved them
+
+
 ## Files
+*Design and fabrication files open source or open format
+
 - <a href="https://github.com/gerda-meleschkin/slowlab/blob/main/files/Inner%20box%20-%20solar%20oven%20v4.dxf">Inner box</a>
 - <a href="https://github.com/gerda-meleschkin/slowlab/blob/main/files/slowlab_solaroven_outside_box.dxf">Outer box</a>
 - <a href="https://github.com/gerda-meleschkin/slowlab/blob/main/files/Sheets%20-%20solar%20oven.dxf">Sheets</a>
@@ -91,6 +119,9 @@ text here
 
 <br>
 <br>
+
+## Photos
+*Photos of end artifact
 
 ## Our personal websites
 - <a href="https://audrey-belliot.github.io/mdef/fabacademy.html">Audrey Belliot</a>
