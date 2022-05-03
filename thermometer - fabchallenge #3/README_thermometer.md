@@ -1,7 +1,7 @@
   <img src="images/slowlab_logo.jpg"/>
 
 # Solar oven  by the Slow Lab
-### by Gerda Meleschkin and Audrey Belliot
+### Audrey Belliot, Paula Bustos & Gerda Meleschkin
 
 This is the documentation of our process of design and fabrication of a solar oven for FabAcademy microchallenge #1
 
