@@ -7,8 +7,8 @@
   <img src="images/IMG_1777.JPG" width="600" />
 </p>
 
-This is the documentation of our process of design and fabrication of a solar oven for FabAcademy microchallenge 
 
+<br>
 
 ## Concept & purpose
 
@@ -85,7 +85,6 @@ We made a wooden box to fit the second hand speakers and the amplifier.
 <img src="images/thermometer_rules.JPG">
 
 
-<br>
 <br>
 
 
