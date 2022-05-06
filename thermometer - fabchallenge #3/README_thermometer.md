@@ -28,8 +28,10 @@ The collected data will go into a platform in which we can display it for the us
 
 We started by listing the tasks that needed to be done and then dividing them into priorities and iterations. We decided to start with electronics so we can get the system running and see what other questions emerge. Once we gather the needed electronics parts we can start testing in a breadboard to see program the code needed and the functions desired. For this first iteration we will focus on gathering the temperature data and showing it through the led lights.
 
+<p float="left">
   <img src="images/Areas of interest.png"/>
   <img src="images/Project planning.png"/>
+</p>
 
 
 - Day 1:
