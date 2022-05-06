@@ -125,24 +125,8 @@ For the electronics we tried to reuse most of our parts. We used the kit we had 
 
 
 ### Process
-*How did you fabricate it (process and materials)
 
-
-<p float="left">
-  <img src="images/videosilver.gif" width="500" />
-  <img src="images/videogold.gif" width="500" />
-</p>
-
-
-#### text here
-
-<p float="left">
-  <img src="images/goldmaterial.jpg" width="330" />
-  <img src="images/goldsheet.jpg" width="330" />
-  <img src="images/goldready.jpg" width="330" />
-</p>
-
-<br>
+  <img src="images/IMG_1777.JPG" width="600" />
 
 
 ### Material Needed
@@ -163,8 +147,7 @@ For the electronics we tried to reuse most of our parts. We used the kit we had 
 
 ## Future development opportunities
 *Listed future development opportunities for this project
-- text here
-- text here
+
 
 <br>
 
