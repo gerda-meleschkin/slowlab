@@ -48,14 +48,16 @@ We are also simultaneaously working on building a set of speakers that could be 
 We tested today the solar oven with the sun that came out. We were excited to try it with the mirros because the reflection would surely help a lot. We went to the rooftop to try it but it didn't go more than 61 degrees. Also, we realised our termometer wasn't working so we opened it up and fixed it. All we needed to do was fix the soldering of a cable which was disconnected. After realising the temperature was not going up we came to the conclusion that we needed to change the tinted glass we had on top because it was preventing the heat to go past it. We unscrewed the top and removed the extra silicone and boight a new clear window so we can test it. 
 For the electronics we managed to get the code up and running with the temperature sensor and the different lights turning on depending on the degrees. So we started soldering the LED lights to make them in a circle. We cut the LED string where the lines are marked and cut small cables so we could interconnect them. Once we had the cabled we started soldering one to the other until we were sure that we had a closed circuit. We tested with the multimeter and the ground and voltage were emitting sound when touched but the data in and out were not. So we went and checkec every connected, unsoldered and soldered back again. We were starting to get frustrated and then they told us that it doesn't make a sound, it just has to display a number. So actuallyu maybe they were well connected from the beginning. But now we know and we kept going. 
 
+<p float="left">
+  <img src="images/IMG_6637.HEIC.jpg" width="500" />
+  <img src="images/IMG_6659.HEIC.jpg" width="500" />
+</p>
+
 - Day 4: 
 
 Finished making arrangements to the oven, refining the code to make sure it works with the electronics and the p5js display. We also continued to do the fabrication of the box for the speakers. 
 
-<p float="left">
-  <img src="images/scetch1.jpg" width="500" />
-  <img src="images/scetch2.jpg" width="500" />
-</p>
+
 *sketching*
 <br>
 <img src="images/lightresearch.jpg">
