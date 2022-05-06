@@ -133,11 +133,12 @@ Neopixel LED Strip that we cut and resolder to fit the circle piece that we lase
 100k ohm resistor for the button
 
 
-Text
+<br>
 
 ## Setbacks
 Described problems and how the team solved them
 
+<br>
 
 ## Files
 *Design and fabrication files open source or open format
@@ -147,7 +148,7 @@ Described problems and how the team solved them
 - <a href="https://github.com/gerda-meleschkin/slowlab/blob/main/files/Sheets%20-%20solar%20oven.dxf">Sheets</a>
 - <a href="https://github.com/gerda-meleschkin/slowlab/blob/main/files/Slow%20lab%20writing.dxf">Label</a>
 
-<br>
+
 <br>
 
 ## Photos
