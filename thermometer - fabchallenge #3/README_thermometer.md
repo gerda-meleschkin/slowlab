@@ -7,7 +7,7 @@
   <img src="images/IMG_1777.JPG" width="600" />
 </p>
 
-This is the documentation of our process of design and fabrication of a solar oven for FabAcademy microchallenge #1
+This is the documentation of our process of design and fabrication of a solar oven for FabAcademy microchallenge 
 
 
 ## Concept & purpose
@@ -17,9 +17,9 @@ We decided to explore the possibility of adding a thermometer so we could transm
 The collected data will go into a platform in which we can display it for the users and create a community in which they can share their progress and tips regarding their use of the oven. This will help us develop improvements to the prototype and understand how the user feels about these alternative systems and low-techs.
 
 <p float="left">
-  <img src="images/areasofinterest.jpg" width="500" />
-  <img src="images/projectdevelopment.jpg" width="500" />
+    <img src="images/Colorpallette_.png" width="300" />
 </p>
+
 
 <br>
 
@@ -27,6 +27,7 @@ The collected data will go into a platform in which we can display it for the us
 *Show how your team planned and executed the project.
 
 We started by listing the tasks that needed to be done and then dividing them into priorities and iterations. We decided to start with electronics so we can get the system running and see what other questions emerge. Once we gather the needed electronics parts we can start testing in a breadboard to see program the code needed and the functions desired. For this first iteration we will focus on gathering the temperature data and showing it through the led lights.
+
 
 <p float="left">
     <img src="images/Areas of interest.png" width="300" />
