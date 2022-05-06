@@ -14,6 +14,8 @@ This is the documentation of our process of design and fabrication of a solar ov
 
 We want to explore ways in which we can live a more resilient lifestyle and try to implement systems that are less dependent on fossil fuel energy. By approaching this subject we started experimenting with a Solar Oven to see if you could use the energy of the Sun to heat up our food instead of the usual microwave or oven. With this we try to start a slow movement in which we bring awareness to our everyday habits and embrace a slower pace with processes. This will pave the way to enjoy more the moment and eliminate the rush of our daily activities by giving time for things to transform.
 
+<img src="images/Areas of interest.png" />
+
 We decided to explore the possibility of adding a thermometer so we could transmit the data to the user at the moment of cooking and to collect the data for future developments of the prototype. 
 
 **Physical interface**
@@ -25,10 +27,6 @@ We will also add a small LCD screen displaying the cronometer so they can know h
 **Community platform**
 The collected data will go into a platform in which we can display it for the users and create a community in which they can share their progress and tips regarding their use of the oven. This will help us develop improvements to the prototype and understand how the user feels about these alternative systems and low-techs.
 
-<p float="left">
-      <img src="images/Areas of interest.png" width="300" />
-    <img src="images/Colorpallette_.png" width="300" />
-</p>
 
 
 <br>
@@ -70,9 +68,6 @@ We connected the electronics to p5Js to display the temperature and a graph line
   <img src="images/thermometer_p5.gif" width="250" />
 
 
-<p float="left">
-</p>
-
 - Day 4: 
 _electronics_
 Continuing the soldering of the LED circle
@@ -97,8 +92,6 @@ We made a wooden box to fit the second hand speakers and the amplifier.
 <br>
 <br>
 
-<img src="images/system_solaroven.jpg">
-
 
 ## Fabrication process
 
@@ -110,13 +103,14 @@ We made a wooden box to fit the second hand speakers and the amplifier.
 
 We were trying to use the less material possible or to use the scraps that we had around the FabLab. We decided then to use the plywood scraps and build the prototypes manually so no use of CNC was needed. This helped us also to get more acquainted with the machines in the workshop and to gain confidence in our fabrication skills. We only used the laser cutter for more precise dimensions and for smaller details. Also to laser cut the acrylic ring that would diffuse the light of the LEDs. We wanted to leave our design in a crude finish so we can also promote the use of less things and display the essential things only. Also it gives a more natural look. 
 
+<img src="images/Colorpallette_.png" />
+
 ### Electronics
 
 For the electronics we tried to reuse most of our parts. We used the kit we had from the beginning of the course for the basics like breadboard, adafruit feather, wires and for the LEDs we cut and reused some that we found in the FabLab. The speakers and amplifier were gifted to us from a car workshop and FabLab. Also the solar panels were borrowed from the FabLab. In this way we were sure to reuse and try to rescue as much of the electronics as we could and leave our design more responsible towards our environment. 
 
 //We started testing the temperature sensor with a breaboard so we connected ground (-) and voltage (+) to USB. The pin we used is A0.
 //For the LED lights we used the NeonPixel strip. We connected to ground (-), voltage (+) to usb and the pin A1. We realised this was the only pin that worked for //some reason. We added a resistor in between the jumping wires of 330ohms. 
-
 
 
 
@@ -137,13 +131,6 @@ For the electronics we tried to reuse most of our parts. We used the kit we had 
 - Rescued speakers
 - Screws
 - Rescued mirrors and glass
-
-
-<br>
-
-## Future development opportunities
-*Listed future development opportunities for this project
-
 
 <br>
 
