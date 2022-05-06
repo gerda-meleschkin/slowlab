@@ -5,7 +5,7 @@
 
 <p float="left">
   <img src="images/video1.gif" width="250" />
-  <img src="images/IMG_1777.JPG" width="650" />
+  <img src="images/IMG_1777.JPG" width="600" />
 </p>
 
 This is the documentation of our process of design and fabrication of a solar oven for FabAcademy microchallenge #1
