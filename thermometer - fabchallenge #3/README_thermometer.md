@@ -44,7 +44,7 @@ We started by listing the tasks that needed to be done and then dividing them in
 
 Making sketches and brainstorming ideas on how to represent the intended data. There will be a start button that will activate the data collection and start the timer. The same button will turn off the data collection and timer. Gathering the LED Neonpixel strip, a breadboard, jumping wires, ESP32 Feather and velleman temperature sensor. We started with the connections and testing the sensor and LED lights to see if they worked properly. We downloaded the arduino libraries for both components. For the LED lights we used the Adafruit_neopixel simple library and for the temperature sensor it's DHT sensor library. We got it up and running and then we started customizing the color of the LED lights to go from light yellow to orange and finally to red in the highest temperature. The plans for the circle board containing the electronics and display were also started so we can be able to laser cut tomorrow.
 
-- Day 2:
+- Day 2:<br>
 _electronics_
 We continued testing the electronics, we were able to design bthe code so the LED lights could light up depending on the temperature they reach. Also by each set of temperature range a different led color would light up. The temperature was also working and we could see the changes in it, but we still needed to figure out how to combine them together. After some testing we managed to merge both codes. We still need to add the button so it knows when to start gathering the data and when to stop. Also we realised that the sensor that we were using was only going until 50 degrees so we decided to use a different one called NTC thermistor which can reach higher temperatures. 
 
@@ -57,7 +57,8 @@ As for the fabrication we continued to make arrangements to the oven. We screwed
 _solar speakers_
 We are also simultaneaously working on building a set of speakers that could be powered by the sun. We managed to get them working with 2 17V/5W panels. The speakers work with 5v/4W so we needed to step down the voltage. And the connected them in parallel so they could gather more energy. 
 
-- Day 3: 
+- Day 3:
+<br>
 _testing the oven_
 We tested today the solar oven with the sun that came out. We were excited to try it with the mirrors because the reflection would surely help a lot. We went to the rooftop to try it but it didn't go more than 61 degrees. Also, we realised our termometer wasn't working so we opened it up and fixed it. All we needed to do was fix the soldering of a cable which was disconnected. After realising the temperature was not going up we came to the conclusion that we needed to change the tinted glass we had on top because it was preventing the heat to go past it. We unscrewed the top and removed the extra silicon and bought a new clear window so we can test it. 
 
@@ -77,6 +78,7 @@ We connected the electronics to p5Js to display the temperature and a graph line
 
 Finished making arrangements to the oven, refining the code to make sure it works with the electronics and the p5js display. We also continued to do the fabrication of the box for the speakers. 
 
+  <img src="images/thermometer_p5.gif" width="250" />
 
 
 
@@ -119,7 +121,6 @@ For the LED lights we used the NeonPixel strip. We connected to ground (-), volt
 ### Process
 *How did you fabricate it (process and materials)
 
-text here  
 
 <p float="left">
   <img src="images/videosilver.gif" width="500" />
