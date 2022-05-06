@@ -62,7 +62,8 @@ For the electronics we managed to get the code up and running with the new tempe
 _digital interface_
 We connected the electronics to p5Js to display the temperature and a graph line showing the evolution in time.
 
-<img src="images/thermometer_p5.gif"/>
+<img src="images/thermometer_p5.gif" />
+
 
 ### Day 4
 _electronics_
