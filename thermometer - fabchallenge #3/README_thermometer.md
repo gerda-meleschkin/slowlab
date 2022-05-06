@@ -4,7 +4,7 @@
 ### Audrey Belliot, Paula Bustos & Gerda Meleschkin
 
 <p float="left">
-  <img src="images/video1.gif" width="500" />
+  <img src="images/video1.gif" width="250" />
   <img src="images/IMG_1777.JPG" width="500" />
 </p>
 
