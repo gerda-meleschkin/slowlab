@@ -1,7 +1,12 @@
   <img src="solar oven - fab challenge #1/images/slowlab_logo.jpg"/>
 
-# Solar oven  by the Slow Lab
+# Solar thermometer  by the Slow Lab
 ### Audrey Belliot, Paula Bustos & Gerda Meleschkin
+
+<p float="left">
+  <img src="images/video1.gif" width="500" />
+  <img src="images/IMG_1777.JPG" width="500" />
+</p>
 
 This is the documentation of our process of design and fabrication of a solar oven for FabAcademy microchallenge #1
 
