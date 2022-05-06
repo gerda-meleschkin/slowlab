@@ -34,8 +34,6 @@ The collected data will go into a platform in which we can display it for the us
 <br>
 
 ## Planning
-*Show how your team planned and executed the project.
-
 We started by listing the tasks that needed to be done and then dividing them into priorities and iterations. We decided to start with electronics so we can get the system running and see what other questions emerge. Once we gather the needed electronics parts we can start testing in a breadboard to see program the code needed and the functions desired. For this first iteration we will focus on gathering the temperature data and showing it through the led lights.
 
 
@@ -47,15 +45,28 @@ We started by listing the tasks that needed to be done and then dividing them in
 Making sketches and brainstorming ideas on how to represent the intended data. There will be a start button that will activate the data collection and start the timer. The same button will turn off the data collection and timer. Gathering the LED Neonpixel strip, a breadboard, jumping wires, ESP32 Feather and velleman temperature sensor. We started with the connections and testing the sensor and LED lights to see if they worked properly. We downloaded the arduino libraries for both components. For the LED lights we used the Adafruit_neopixel simple library and for the temperature sensor it's DHT sensor library. We got it up and running and then we started customizing the color of the LED lights to go from light yellow to orange and finally to red in the highest temperature. The plans for the circle board containing the electronics and display were also started so we can be able to laser cut tomorrow.
 
 - Day 2:
+_electronics_
+We continued testing the electronics, we were able to design bthe code so the LED lights could light up depending on the temperature they reach. Also by each set of temperature range a different led color would light up. The temperature was also working and we could see the changes in it, but we still needed to figure out how to combine them together. After some testing we managed to merge both codes. We still need to add the button so it knows when to start gathering the data and when to stop. Also we realised that the sensor that we were using was only going until 50 degrees so we decided to use a different one called NTC thermistor which can reach higher temperatures. 
 
-We continued testing the electronics, we were able to design bthe code so the LED lights could light up depending on the temperature they reach. Also by each set of temperature range a different led color would light up. The temperature was also working and we could see the changes in it, but we still needed to figure out how to combine them together. After some testing we managed to merge both codes. We still need to add the button so it knows when to start gathering the data and when to stop. Also we realised that the sensor that we were using was only going until 50 degrees so we decided to use a different one called NCC termistor which can reach higher temperatures. As for the fabrication we continued to make arrangements to the oven. We screwed the hinge to the mirror door on top and added inner insulation with some cork we rescued from the FabLab. We wanted to finish the oven as soon as possible so we could test it and see how it works. We also laser cut the circke to which the leds and electronics would be attached to and would display the temperature. 
+_physical interface_
+We also laser cut the circle to which the leds and electronics would be attached to and would display the temperature. 
 
+_solar oven improvements_
+As for the fabrication we continued to make arrangements to the oven. We screwed the hinge to the mirror door on top and added inner insulation with some cork we rescued from the FabLab. We wanted to finish the oven as soon as possible so we could test it and see how it works. 
+
+_solar speakers_
 We are also simultaneaously working on building a set of speakers that could be powered by the sun. We managed to get them working with 2 17V/5W panels. The speakers work with 5v/4W so we needed to step down the voltage. And the connected them in parallel so they could gather more energy. 
 
 - Day 3: 
+_testing the oven_
+We tested today the solar oven with the sun that came out. We were excited to try it with the mirrors because the reflection would surely help a lot. We went to the rooftop to try it but it didn't go more than 61 degrees. Also, we realised our termometer wasn't working so we opened it up and fixed it. All we needed to do was fix the soldering of a cable which was disconnected. After realising the temperature was not going up we came to the conclusion that we needed to change the tinted glass we had on top because it was preventing the heat to go past it. We unscrewed the top and removed the extra silicon and bought a new clear window so we can test it. 
 
-We tested today the solar oven with the sun that came out. We were excited to try it with the mirros because the reflection would surely help a lot. We went to the rooftop to try it but it didn't go more than 61 degrees. Also, we realised our termometer wasn't working so we opened it up and fixed it. All we needed to do was fix the soldering of a cable which was disconnected. After realising the temperature was not going up we came to the conclusion that we needed to change the tinted glass we had on top because it was preventing the heat to go past it. We unscrewed the top and removed the extra silicone and boight a new clear window so we can test it. 
-For the electronics we managed to get the code up and running with the temperature sensor and the different lights turning on depending on the degrees. So we started soldering the LED lights to make them in a circle. We cut the LED string where the lines are marked and cut small cables so we could interconnect them. Once we had the cabled we started soldering one to the other until we were sure that we had a closed circuit. We tested with the multimeter and the ground and voltage were emitting sound when touched but the data in and out were not. So we went and checkec every connected, unsoldered and soldered back again. We were starting to get frustrated and then they told us that it doesn't make a sound, it just has to display a number. So actuallyu maybe they were well connected from the beginning. But now we know and we kept going. 
+_electronics_
+For the electronics we managed to get the code up and running with the new temperature sensor (NTC) and the different lights turning on depending on the degrees. So we started soldering the LED lights to make them in a circle. We cut the LED string where the lines are marked and cut small cables so we could interconnect them. Once we had the cabled we started soldering one to the other until we were sure that we had a closed circuit. We tested with the multimeter and the ground and voltage were emitting sound when touched but the data in and out were not. So we went and checked every connected, unsoldered and soldered back again. We were starting to get frustrated and then we found out it doesn't make a sound, it just has to display a number. So actually maybe they were well connected from the beginning. But now we know and we kept going. 
+
+_digital interface_
+We connected the electronics to p5Js to display the temperature and a graph line showing the evolution in time.
+
 
 <p float="left">
   <img src="images/IMG_6637.HEIC.jpg" width="500" />
@@ -67,12 +78,14 @@ For the electronics we managed to get the code up and running with the temperatu
 Finished making arrangements to the oven, refining the code to make sure it works with the electronics and the p5js display. We also continued to do the fabrication of the box for the speakers. 
 
 
+
+
 *sketching*
 <br>
-<img src="images/lightresearch.jpg">
-*light reflection simulation* on <a href="https://ricktu288.github.io/ray-optics/simulator/?en">this website</a>.
 
 *System diagram (illustration explaining function, parts and relations)
+
+
 <br>
 <br>
 
