@@ -93,7 +93,7 @@ We made a wooden box to fit the second hand speakers and the amplifier.
 *sketching*
 <br>
 <img src="images/thermometer_wiring.JPG">
-<img src="images/thermometer.rules.JPG">
+<img src="images/thermometer_rules.JPG">
 
 
 <br>
