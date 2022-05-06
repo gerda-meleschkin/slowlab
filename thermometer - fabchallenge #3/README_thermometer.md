@@ -75,8 +75,16 @@ We connected the electronics to p5Js to display the temperature and a graph line
 </p>
 
 - Day 4: 
+_electronics_
+Continuing the soldering of the LED circle
+Soldering all the components to be able to remove the breadboard
 
-Finished making arrangements to the oven, refining the code to make sure it works with the electronics and the p5js display. We also continued to do the fabrication of the box for the speakers. 
+_solar oven and speakers_
+Finished making arrangements to the oven. Attaching the new transparent glass
+
+_solar speaker_
+We tested the speakers with an amplifier to replace the car radio amp that we didn't manage to make work on day 3.
+We made a wooden box to fit the second hand speakers and the amplifier. 
 
   <img src="images/thermometer_p5.gif" width="250" />
 
@@ -108,8 +116,8 @@ We were trying to use the less material possible or to use the scraps that we ha
 
 For the electronics we tried to reuse most of our parts. We used the kit we had from the beginning of the course for the basics like breadboard, adafruit feather, wires and for the LEDs we cut and reused some that we found in the FabLab. The speakers and amplifier were gifted to us from a car workshop and FabLab. Also the solar panels were borrowed from the FabLab. In this way we were sure to reuse and try to rescue as much of the electronics as we could and leave our design more responsible towards our environment. 
 
-We started testing the temperature sensor with a breaboard so we connected ground (-) and voltage (+) to USB. The pin we used is A0.
-For the LED lights we used the NeonPixel strip. We connected to ground (-), voltage (+) to usb and the pin A1. We realised this was the only pin that worked for some reason. We added a resistor in between the jumping wires of 330ohms. 
+//We started testing the temperature sensor with a breaboard so we connected ground (-) and voltage (+) to USB. The pin we used is A0.
+//For the LED lights we used the NeonPixel strip. We connected to ground (-), voltage (+) to usb and the pin A1. We realised this was the only pin that worked for //some reason. We added a resistor in between the jumping wires of 330ohms. 
 
 <p float="left">
   <img src="images/laser.jpg" width="330" />
@@ -146,6 +154,7 @@ For the LED lights we used the NeonPixel strip. We connected to ground (-), volt
 - Small rescued piece of MDF
 - 2 17v solar panels
 - Rescued car radio amplifier
+- second hand amplifier
 - Second hand speakers
 - Rescued speakers
 - Screws
