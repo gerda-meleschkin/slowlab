@@ -117,16 +117,12 @@ For the electronics we tried to reuse most of our parts. We used the kit we had 
 //We started testing the temperature sensor with a breaboard so we connected ground (-) and voltage (+) to USB. The pin we used is A0.
 //For the LED lights we used the NeonPixel strip. We connected to ground (-), voltage (+) to usb and the pin A1. We realised this was the only pin that worked for //some reason. We added a resistor in between the jumping wires of 330ohms. 
 
-<p float="left">
-  <img src="images/laser.jpg" width="330" />
-  <img src="images/laser2.JPG" width="330" />
-  <img src="images/gerda.jpg" width="330" />
-</p>
+
 
 
 ### Process
 
-  <img src="images/IMG_1777.JPG" width="600" />
+  <img src="images/fabrication.png" />
 
 
 ### Material Needed
