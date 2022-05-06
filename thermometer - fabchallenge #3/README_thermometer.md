@@ -67,11 +67,10 @@ For the electronics we managed to get the code up and running with the new tempe
 
 _digital interface_
 We connected the electronics to p5Js to display the temperature and a graph line showing the evolution in time.
+  <img src="images/thermometer_p5.gif" width="250" />
 
 
 <p float="left">
-  <img src="images/IMG_6637.HEIC.jpg" width="500" />
-  <img src="images/IMG_6659.HEIC.jpg" width="500" />
 </p>
 
 - Day 4: 
@@ -86,7 +85,6 @@ _solar speaker_
 We tested the speakers with an amplifier to replace the car radio amp that we didn't manage to make work on day 3.
 We made a wooden box to fit the second hand speakers and the amplifier. 
 
-  <img src="images/thermometer_p5.gif" width="250" />
 
 
 
