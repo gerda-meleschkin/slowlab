@@ -13,7 +13,16 @@ This is the documentation of our process of design and fabrication of a solar ov
 ## Concept & purpose
 
 We want to explore ways in which we can live a more resilient lifestyle and try to implement systems that are less dependent on fossil fuel energy. By approaching this subject we started experimenting with a Solar Oven to see if you could use the energy of the Sun to heat up our food instead of the usual microwave or oven. With this we try to start a slow movement in which we bring awareness to our everyday habits and embrace a slower pace with processes. This will pave the way to enjoy more the moment and eliminate the rush of our daily activities by giving time for things to transform.
-We decided to explore the possibility of adding a thermometer so we could transmit the data to the user at the moment of cooking and to collect the data for future developments of the prototype. The system will work with a heat sensor wired to an arduino in which we can integrate some led lights to communicate to the user the temperature that the oven is reaching. We will also add a small LCD screen displaying the cronometer so they can know how much time their oven has been runnning and in this way make the user experience more reliable for a first approach to this alternative technologies.
+
+We decided to explore the possibility of adding a thermometer so we could transmit the data to the user at the moment of cooking and to collect the data for future developments of the prototype. 
+
+**Physical interface**
+The system will work with a heat sensor wired to an ESP32 microcontroller in which we can integrate some led lights to communicate to the user the temperature that the oven is reaching. 
+
+**Digital interface**
+We will also add a small LCD screen displaying the cronometer so they can know how much time their oven has been runnning and in this way make the user experience more reliable for a first approach to this alternative technologies.
+
+**Community platform**
 The collected data will go into a platform in which we can display it for the users and create a community in which they can share their progress and tips regarding their use of the oven. This will help us develop improvements to the prototype and understand how the user feels about these alternative systems and low-techs.
 
 <p float="left">
