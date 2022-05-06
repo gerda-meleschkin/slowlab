@@ -1,4 +1,3 @@
-  <img src="solar oven - fab challenge #1/images/slowlab_logo.jpg"/>
 
 # Solar thermometer  by the Slow Lab
 ### Audrey Belliot, Paula Bustos & Gerda Meleschkin
@@ -28,6 +27,10 @@ The collected data will go into a platform in which we can display it for the us
 *Show how your team planned and executed the project.
 
 We started by listing the tasks that needed to be done and then dividing them into priorities and iterations. We decided to start with electronics so we can get the system running and see what other questions emerge. Once we gather the needed electronics parts we can start testing in a breadboard to see program the code needed and the functions desired. For this first iteration we will focus on gathering the temperature data and showing it through the led lights.
+
+  <img src="images/Areas of interest.png"/>
+  <img src="images/Project planning.png"/>
+
 
 - Day 1:
 
