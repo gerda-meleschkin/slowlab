@@ -57,7 +57,7 @@ _testing the oven_
 We tested today the solar oven with the sun that came out. We were excited to try it with the mirrors because the reflection would surely help a lot. We went to the rooftop to try it but it didn't go more than 61 degrees. Also, we realised our termometer wasn't working so we opened it up and fixed it. All we needed to do was fix the soldering of a cable which was disconnected. After realising the temperature was not going up we came to the conclusion that we needed to change the tinted glass we had on top because it was preventing the heat to go past it. We unscrewed the top and removed the extra silicon and bought a new clear window so we can test it. 
 
 _electronics_
-For the electronics we managed to get the code up and running with the new temperature sensor (NTC) and the different lights turning on depending on the degrees. So we started soldering the LED lights to make them in a circle. We cut the LED string where the lines are marked and cut small cables so we could interconnect them. Once we had the cabled we started soldering one to the other until we were sure that we had a closed circuit. We tested with the multimeter and the ground and voltage were emitting sound when touched but the data in and out were not. So we went and checked every connected, unsoldered and soldered back again. We were starting to get frustrated and then we found out it doesn't make a sound, it just has to display a number. So actually maybe they were well connected from the beginning. But now we know and we kept going. 
+For the electronics we managed to get the code up and running with the new temperature sensor (NTC) and the different lights turning on depending on the degrees. So we started soldering the LED lights to make them in a circle. We cut the LED string where the lines are marked and cut small cables so we could interconnect them. Once we had the cables we started soldering one to the other until we were sure that we had a closed circuit. We tested with the multimeter and the ground and voltage were emitting sound when touched but the data in and out were not. So we went and checked every connected, unsoldered and soldered back again. We were starting to get frustrated and then we found out it doesn't make a sound, it just has to display a number. So actually maybe they were well connected from the beginning. But now we know and we kept going. 
 
 _digital interface_
 We connected the electronics to p5Js to display the temperature and a graph line showing the evolution in time.
@@ -97,8 +97,8 @@ We were trying to use the less material possible or to use the scraps that we ha
 
 For the electronics we tried to reuse most of our parts. We used the kit we had from the beginning of the course for the basics like breadboard, adafruit feather, wires and for the LEDs we cut and reused some that we found in the FabLab. The speakers and amplifier were gifted to us from a car workshop and FabLab. Also the solar panels were borrowed from the FabLab. In this way we were sure to reuse and try to rescue as much of the electronics as we could and leave our design more responsible towards our environment. 
 
-//We started testing the temperature sensor with a breaboard so we connected ground (-) and voltage (+) to USB. The pin we used is A0.
-//For the LED lights we used the NeonPixel strip. We connected to ground (-), voltage (+) to usb and the pin A1. We realised this was the only pin that worked for //some reason. We added a resistor in between the jumping wires of 330ohms. 
+We started testing the temperature sensor with a breaboard so we connected ground (-) and voltage (+) to USB. The pin we used is A0.
+For the LED lights we used the NeonPixel strip. We connected to ground (-), voltage (+) to usb and the pin A1. We realised this was the only pin that worked for some reason. We added a resistor in between the jumping wires of 330ohms. 
 
 <img src="images/thermometer_wiring.JPG">
 <img src="images/thermometer_rules.JPG">
@@ -137,6 +137,10 @@ Neopixel LED Strip that we cut and resolder to fit the circle piece that we lase
 
 ## Setbacks
 Described problems and how the team solved them
+
+We had some trouble getting to write the right code. We were struggling because we set the parameters to change light up the next led in a specific color from lets say 20-40 celsius and then from 40-60 but we needed to write the code with the instructions to light up from 20-39 and then from 40-59 and so on. Also it took us a whil to figure out how to code the button because we needed to adjust how often would the button be reading an answer. After some assistance we managed to write it correctly. 
+
+In terms of fabrication we struggled with the use of the glass. We used a recovered glass from the street which we then cut to fit our measurements. Cutting glass was very tricky and we broke it many times. Also as we took it from the street we didn't know what were its properties. We realised after that as it was dark glass there was not enough sunlight passing through. This prototype when tested didn't go higher than 60 degrees when in comparison to the other two simpler ones went to 100 degrees. 
 
 <br>
 
