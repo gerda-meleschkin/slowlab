@@ -40,11 +40,12 @@ For this challenge, we decided to work on a collection of artefacts that can be 
 
 ### Process
 
-### Dissemination plan
+### Build of Materials
 
-### Material Needed
 
-## Build of Materials
+## Dissemination plan
+
+
 
 ## Setbacks
 
