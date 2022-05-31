@@ -2,20 +2,17 @@
 # Slow daily devices by the Slow Lab
 ### Audrey Belliot, Paula Bustos & Gerda Meleschkin
 
-<p float="left">
-  <img src="images/video1.gif" width="250" />
-  <img src="images/IMG_1777.JPG" width="600" />
-</p>
+
 
 
 <br>
 
 ## Concept & purpose
 
-###Slow Lab
+### Slow Lab
 We want to explore ways in which we can live a more resilient lifestyle and try to implement systems that are less dependent on fossil fuel energy. By approaching this subject we started experimenting with a Solar Oven to see if you could use the energy of the Sun to heat up our food instead of the usual microwave or oven. With this we try to start a slow movement in which we bring awareness to our everyday habits and embrace a slower pace with processes. This will pave the way to enjoy more the moment and eliminate the rush of our daily activities by giving time for things to transform.
 
-###Challenge 4
+### Challenge 4
 For this challenge, we decided to work on a collection of artefacts that can be part of the "slow" and low tech daily routines we want to promote.
 
 * Human energy:
@@ -33,7 +30,7 @@ For this challenge, we decided to work on a collection of artefacts that can be 
 
 
 
-<br>
+
 
 ## Planning
 
@@ -51,8 +48,6 @@ For this challenge, we decided to work on a collection of artefacts that can be 
 
 ## Setbacks
 
-
-<br>
 
 ## Files
 
