@@ -28,13 +28,45 @@ For this challenge, we decided to work on a collection of artefacts that can be 
   - Ad hoc analysis: collect data on a SD card from the sensors used on these devices to be able to create graphs or other data visualization and see efficiency levels.
 
 
-
-
-
-
 ## Planning
+We separated the tasks between us based on our interests and on the skills we wanted to work on during the challenge:
+* Gerda worked on the "mobile" bike generator with the dynamo
+* Paula on the rotating stand for solar ovens (or other devices that need to follow the sun)
+* Audrey on the clay printed wine cooler and the home bike generators
+
+We decided to focus on these devices first and work on the data collection at the end if we had some extra time.
 
 ## Fabrication process
+
+### Clay wine cooler
+Steps:
+    - Make a design on Rhino for a simple “vase” shape without thickness
+    <br>Notes:
+    Size limitations to take into account: printer plate 20x20 / kiln 20x20x15 height
+    <br>The size will reduce of about 10-15% after cooking
+    - Measurements : perimeter wine bottle 23-24 cm / diametre 8 cm → I will leave around 2-3 cm for water around the bottle so the wine cooler can be 13 cm diameter. + If it reduces of 10-15% when cooking I need to do it 15 cm diameter
+    - In Grasshopper, I created a cylinder and a circle with the same center point and radius and merged them.
+    - I "baked" the shape and opened the file with gcode for the paster printer slicer
+    - Use the  latest version of the Grasshopper file to generate the gcode
+    - Open the software "Repetier", connect it to the Ender printer and check the "z" value when we add a base. Then change this value in the Grasshopper setup.
+    - Copy the Grasshopper code into Repetier
+
+- Preparing the machine.
+
+    - Launch the print
+During the print it is important to stay close to the printer to adjust the pre
+
+
+- Let dry for at least 2 days, cook and increase the temperature every hour, let cool down during the night
+
+Points of attention
+
+
+### Build of materials
+- 2 cartridges of clay for a cooler of 15 cm diameter and 16 cm height
+
+
+
 
 ### Design
 
