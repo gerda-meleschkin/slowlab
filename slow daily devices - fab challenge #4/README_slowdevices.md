@@ -122,7 +122,6 @@ Then my idea was to make a low tech navigation system, which is connected with t
 ### Design
 
 <img src="images/design.png" />
-<img src="images/design2.PNG" />
 
 
 ### Process
@@ -154,6 +153,7 @@ Then my idea was to make a low tech navigation system, which is connected with t
 1. I designed i case for the generator, because i want to attach it to several bycicles 
 2. I 3D printed
 
+<img src="images/design2.PNG" />
 <img src="images/box1.png" />
 <img src="images/box 2.png" />
 
