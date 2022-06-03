@@ -141,7 +141,7 @@ Then my idea was to make a low tech navigation system, which is connected with t
       outline speed 1.5, 1/32 mill traces
       holes speed 3, 1/32 mill traces
       
-<img src="images/pcb.png" />
+<img src="images/pcb.jpg" />
 <img src="images/pcb2.png" />
 
 #### Eletronics
