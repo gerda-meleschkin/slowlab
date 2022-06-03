@@ -95,10 +95,10 @@ The Design was initially thought to be round but then when thinking about the fa
 <img src="images/testrotatorybase1.gif" />
 
 -Servomotor
-*insert image of schematic
+<img src="images/arduinoservomotor.png" />
 
 -Photoresistor
-*insert image of schematic
+<img src="images/arduinophotoresistor.png" />
 
 -After trying both the servo and the photoresistors we then worked on the code. So what we want is to measure the amount of light coming from both sensors and then analyze the difference between both values in order to tell the motor where to turn to. So the logic of this is that if there is more light in the photoresistor A than in photoresistor B then the motor whould turn to the photoresistor A. Right now we just worked with 2 photoresistors but eventually we would like to put some more so we can have different angles to turn the oven to. 
 
