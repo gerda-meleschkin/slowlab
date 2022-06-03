@@ -124,16 +124,15 @@ We are creating a bike generator out of an old vintage home bike. It will be als
 The inspiration for this bike generator comes from Low Tech Magazine and his author Kris de Decker with whom we have been collaborating for a few months now. The manual he shared in his website has been very useful.
 <a href="https://www.lowtechmagazine.com/2022/03/how-to-build-bike-generator.html>Manual Low Tech Magazine</a>
 
-Bike generator
 
+Day 1
 - Test 1: make the motor turn with a driller an measure the voltage with a multimeter - we only reached 8V.
 - Test 2: check if our 12-24V amplifier would still work with only 8V. We used a power supply for this test. And it worked.
 - Test 3: connect the motor-generator to the amplifier and turn the shaft with the driller → the music was playing!
 
-Next step:  attach a spindle to the motor to make it turn with the wheel of the static bike.
-
+Day 2
+The objective was to attach a spindle to the motor to make it turn with the wheel of the static bike.
 There is a formula to calculate the spindle diameter based on the expected voltage we want to produce.
-
 The motor we use is a 24V DC motor (350W, 2750RPM). If we search the specifications of this motor, it has a no-load speed of 3300 RPM at 24V. It is proportional so it means we have 1650 no-load RPM at 12V.
 
 The formula to calculate the spindle diameter is
@@ -180,11 +179,16 @@ We managed to produce around 18V with it when pedaling at a good speed without s
 
 
 
+Day 3
+- The spindle from day 2 was a getting damaged by the friction so we had to change it and found a small wheel at Servei Estacio that we could attach to the motor shaft
+- We added a diode to make sure the current flows only in one direction as we are here using a motor as a generator
+- We added also a capacitor to make the voltage more steady
+- We made a small wood support to attach the motor to the bike
 
-Diode to make sure the current flows only in one direction as we are here using a motor as a generator
-
-
-
+Next steps
+- Add fruses
+- Make a more stable support
+- Add a dimmer
 
 ### Build of Materials
 - Vintage second hand home bike
@@ -192,6 +196,7 @@ Diode to make sure the current flows only in one direction as we are here using 
 - Rubber “wheel”bought at Cauchos Barcelona
 - Nut turning on the left to attach to the motor shaft
 - Conversor DC-DC adjustable 5A 75W
+- Diode 6A
 
 
 
