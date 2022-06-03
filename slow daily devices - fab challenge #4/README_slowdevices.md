@@ -2,17 +2,15 @@
 # Slow daily devices by the Slow Lab
 ### Audrey Belliot, Paula Bustos & Gerda Meleschkin
 
+### Slow Lab
+We want to explore ways in which we can live a more resilient lifestyle and try to implement systems that are less dependent on fossil fuel energy. By approaching this subject we started experimenting with a Solar Oven to see if you could use the energy of the Sun to heat up our food instead of the usual microwave or oven. With this we try to start a slow movement in which we bring awareness to our everyday habits and embrace a slower pace with processes. This will pave the way to enjoy more the moment and eliminate the rush of our daily activities by giving time for things to transform.
+
 
 
 
 <br>
 
 ## Concept & purpose
-
-### Slow Lab
-We want to explore ways in which we can live a more resilient lifestyle and try to implement systems that are less dependent on fossil fuel energy. By approaching this subject we started experimenting with a Solar Oven to see if you could use the energy of the Sun to heat up our food instead of the usual microwave or oven. With this we try to start a slow movement in which we bring awareness to our everyday habits and embrace a slower pace with processes. This will pave the way to enjoy more the moment and eliminate the rush of our daily activities by giving time for things to transform.
-
-### Challenge 4
 For this challenge, we decided to work on a collection of artefacts that can be part of the "slow" and low tech daily routines we want to promote.
 
 * Paula Solar energy:
@@ -72,7 +70,7 @@ Points of attention
 <img src="images/clayprint_winecooler.gif" />
 
 
-#### Rotatory Base with sunlight tracking
+## Rotatory Base with sunlight tracking
 
 I started by following two tutorials for reference, one from instructables and another from a student of fabacademy previous years.
 - <a href="https://www.instructables.com/Plant-Rotator/">Automatic plant rotator with sunlight sensor.</a>
@@ -116,7 +114,25 @@ The Design was initially thought to be round but then when thinking about the fa
 -Jumping wires
 -MDF 2.5 mm
 
+
+
+
+## Home bike generator
+As we are questionning our dependency towards fossile fuels and energy in general, we wanted to create a device that anybody could have at home to produce their own energy.
+We are creating a bike generator out of an old vintage home bike. It will be also used as part of our Slow Lab event, the next one being a solar brunch during MDEFest.
+
+The inspiration for this bike generator comes from Low Tech Magazine and his author Kris de Decker with whom we have been collaborating for a few months now. The manual he shared in his website has been very useful.
+<a href="https://www.lowtechmagazine.com/2022/03/how-to-build-bike-generator.html>Manual Low Tech Magazine</a>
+
+
+
+
+
 ### Build of Materials
+
+
+
+
 
 
 ## Dissemination plan
