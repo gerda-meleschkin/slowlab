@@ -113,7 +113,7 @@ The Design was initially thought to be round but then when thinking about the fa
 -Jumping wires
 -MDF 2.5 mm
 
-## Portable bike electrivity generator
+## Portable bike electricity generator
 
 I started following tutorials to make generator for a dynamo, which could provide 5V to one device though a USB connector. 
 Then my idea was to make a low tech navigation system, which is connected with the phone through bluetooth while using openstreet map. 
