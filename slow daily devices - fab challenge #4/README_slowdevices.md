@@ -92,7 +92,7 @@ The Design was initially thought to be round but then when thinking about the fa
 ### Electronics
 -We first started testing each component individually and seeing if it works properly. These are the schematics of each of the main components.
 
-<img src="images/testrotatorybase1.gif" />
+<img src="images/testrotarybase1.gif" />
 
 -Servomotor
 <img src="images/arduinoservomotor.png" />
