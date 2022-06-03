@@ -121,6 +121,8 @@ Then my idea was to make a low tech navigation system, which is connected with t
 
 ### Design
 
+<img src="images/design.PNG" />
+<img src="images/design2.PNG" />
 
 
 ### Process
@@ -140,10 +142,17 @@ Then my idea was to make a low tech navigation system, which is connected with t
 3. Connected the dynamo
 4. Had problems, some parts were the other way around
 
+<img src="images/chargingphonebike.gif" />
+<img src="images/dynamotest.gif" />
+
+
 #### Case
 - First i designed the Eschema while collecting the datasheets and check the connections
 - Then i finished the PCB design with Kicad
 - After exporting it as t
+
+<img src="images/box1.gif" />
+<img src="images/chargingphonebike.gif" />
 
 ### Build of materials
 - 1 Dynamo
