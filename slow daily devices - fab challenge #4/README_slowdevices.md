@@ -113,6 +113,35 @@ The Design was initially thought to be round but then when thinking about the fa
 -Jumping wires
 -MDF 2.5 mm
 
+## Portable bike electrivity generator
+
+I started following tutorials to make generator for a dynamo, which could provide 5V to one device though a USB connector. 
+Then my idea was to make a low tech navigation system, which is connected with the phone through bluetooth while using openstreet map. 
+
+
+### Design
+
+
+
+### Process
+
+#### PCB
+- First i designed the Eschema while collecting the datasheets and check the connections
+- Then i finished the PCB design with Kicad
+- After exporting it as t
+
+
+#### Eletronics
+
+
+#### Case
+
+
+### Build of materials
+- 1 Dynamo
+- 1 Diode
+- 1 USB Connector
+
 
 ## Home bike generator
 As we are questionning our dependency towards fossile fuels and energy in general, we wanted to create a device that anybody could have at home to produce their own energy.
