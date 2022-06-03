@@ -121,35 +121,38 @@ Then my idea was to make a low tech navigation system, which is connected with t
 
 ### Design
 
-<img src="images/design.PNG" />
+<img src="images/design.png" />
 <img src="images/design2.PNG" />
 
 
 ### Process
 
 #### PCB
-1. i designed the Eschema while collecting the datasheets and check the connections
+1. I designed the Eschema while collecting the datasheets and check the connections
 2. I finished the PCB design with Kicad
 3. Exporting it as SVG files
 4. I	created three rml files 
     	traces speed 3, 1/64 mill traces
       outline speed 1.5, 1/32 mill traces
       holes speed 3, 1/32 mill traces
+      
+<img src="images/pcb1.png" />
+<img src="images/pcb2.png" />
 
 #### Eletronics
 1. I soldered the components
 2. Connected all the connections with the mulitmeter
 3. Connected the dynamo
 4. Had problems, some parts were the other way around
+5. After soldering and changing some parts ot worked
 
 <img src="images/chargingphonebike.gif" />
 <img src="images/dynamotest.gif" />
 
 
 #### Case
-- First i designed the Eschema while collecting the datasheets and check the connections
-- Then i finished the PCB design with Kicad
-- After exporting it as t
+1. I designed i case for the generator, because i want to attach it to several bycicles 
+2. I 3D printed
 
 <img src="images/box1.gif" />
 <img src="images/chargingphonebike.gif" />
