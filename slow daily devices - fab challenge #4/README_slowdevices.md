@@ -126,21 +126,34 @@ Then my idea was to make a low tech navigation system, which is connected with t
 ### Process
 
 #### PCB
+1. i designed the Eschema while collecting the datasheets and check the connections
+2. I finished the PCB design with Kicad
+3. Exporting it as SVG files
+4. I	created three rml files 
+    	traces speed 3, 1/64 mill traces
+      outline speed 1.5, 1/32 mill traces
+      holes speed 3, 1/32 mill traces
+
+#### Eletronics
+1. I soldered the components
+2. Connected all the connections with the mulitmeter
+3. Connected the dynamo
+4. Had problems, some parts were the other way around
+
+#### Case
 - First i designed the Eschema while collecting the datasheets and check the connections
 - Then i finished the PCB design with Kicad
 - After exporting it as t
 
-
-#### Eletronics
-
-
-#### Case
-
-
 ### Build of materials
 - 1 Dynamo
-- 1 Diode
-- 1 USB Connector
+- 1 Diode 1N5819
+- 1 USB Connector Typ A 2.0
+- 1 Bridge Rectifier B40C1500A
+- 1 Capasitor 330 µF
+- 1 Capasitor 100 µF
+- 1 Voltage Regulator LM2575T-5G
+- 1 Coil Coil 330µH
 
 
 ## Home bike generator
