@@ -146,16 +146,16 @@ Then my idea was to make a low tech navigation system, which is connected with t
 4. Had problems, some parts were the other way around
 5. After soldering and changing some parts ot worked
 
-<img src="images/chargingphonebike.gif" />
 <img src="images/dynamotest.gif" />
+<img src="images/chargingphonebike.gif" />
 
 
 #### Case
 1. I designed i case for the generator, because i want to attach it to several bycicles 
 2. I 3D printed
 
-<img src="images/box1.gif" />
-<img src="images/chargingphonebike.gif" />
+<img src="images/box1.png" />
+<img src="images/box 2.png" />
 
 ### Build of materials
 - 1 Dynamo
