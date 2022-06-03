@@ -82,7 +82,7 @@ I started by following two tutorials for reference, one from instructables and a
 ### Design
 The Design was initially thought to be round but then when thinking about the fabrication process we decided to make it square. When we found the lazy susan wheel we decided to go back to the circular design. Circular shapes are always more tricky to make because you need a curved material. As we decided to use MDF for this prototype we just used living hinges to create the circular perimeter walls. Eventually we would like to add the legs that would attach to the window and some way to attach the oven or planters on top that can be easily changed. 
 
-<img src="images/rb-sketch2.gif" />
+<img src="images/rb-sketch2.png" />
 <img src="images/livinghinge.gif" />
 
 
@@ -141,8 +141,10 @@ Then my idea was to make a low tech navigation system, which is connected with t
       outline speed 1.5, 1/32 mill traces
       holes speed 3, 1/32 mill traces
       
-<img src="images/pcb.jpg" />
+<img src="images/pcbdesign.png" />
 <img src="images/pcb2.png" />
+<img src="images/pcb.jpg" />
+
 
 #### Eletronics
 1. I soldered the components
@@ -151,6 +153,7 @@ Then my idea was to make a low tech navigation system, which is connected with t
 4. Had problems, some parts were the other way around
 5. After soldering and changing some parts ot worked
 
+<img src="images/soldering.png" />
 <img src="images/dynamotest.gif" />
 <img src="images/chargingphonebike.gif" />
 
