@@ -15,12 +15,16 @@ We want to explore ways in which we can live a more resilient lifestyle and try 
 ### Challenge 4
 For this challenge, we decided to work on a collection of artefacts that can be part of the "slow" and low tech daily routines we want to promote.
 
-* Human energy:
-  - Generator of electricity on the bike to power a low tech navigating system
+* Paula Solar energy:
+  - Small version of a solar oven to attach to any window and that rotates to follow the sun
+
+* Gerda Human energy:
+  - Generator of electricity on the bike to power a device
+
+* Audrey Human energy:
   - Bike generator (static bike) for homes to power 12-24V devices at 175-350W
 
-* Solar energy:
-  - Small version of a solar oven to attach to any window and that rotates to follow the sun
+* Audrey bottle cooler:
   - Clay printed wine cooler to refresh bottles using the principle of evaporation
 
 * Data collection:
@@ -32,7 +36,7 @@ For this challenge, we decided to work on a collection of artefacts that can be 
 We separated the tasks between us based on our interests and on the skills we wanted to work on during the challenge:
 * Gerda worked on the "mobile" bike generator with the dynamo
 * Paula on the rotating stand for solar ovens (or other devices that need to follow the sun)
-* Audrey on the clay printed wine cooler and the home bike generators
+* Audrey on the clay printed wine cooler and the home bike generator
 
 We decided to focus on these devices first and work on the data collection at the end if we had some extra time.
 
