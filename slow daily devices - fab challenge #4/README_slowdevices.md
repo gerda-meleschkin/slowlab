@@ -82,8 +82,8 @@ I started by following two tutorials for reference, one from instructables and a
 ### Design
 The Design was initially thought to be round but then when thinking about the fabrication process we decided to make it square. When we found the lazy susan wheel we decided to go back to the circular design. Circular shapes are always more tricky to make because you need a curved material. As we decided to use MDF for this prototype we just used living hinges to create the circular perimeter walls. Eventually we would like to add the legs that would attach to the window and some way to attach the oven or planters on top that can be easily changed. 
 
-*image of hinge
-*image of the round shape
+<img src="images/rb-sketch2.gif" />
+<img src="images/livinghinge.gif" />
 
 
 ### Process
@@ -91,6 +91,8 @@ The Design was initially thought to be round but then when thinking about the fa
 
 ### Electronics
 -We first started testing each component individually and seeing if it works properly. These are the schematics of each of the main components.
+
+<img src="images/testrotatorybase1.gif" />
 
 -Servomotor
 *insert image of schematic
@@ -100,8 +102,12 @@ The Design was initially thought to be round but then when thinking about the fa
 
 -After trying both the servo and the photoresistors we then worked on the code. So what we want is to measure the amount of light coming from both sensors and then analyze the difference between both values in order to tell the motor where to turn to. So the logic of this is that if there is more light in the photoresistor A than in photoresistor B then the motor whould turn to the photoresistor A. Right now we just worked with 2 photoresistors but eventually we would like to put some more so we can have different angles to turn the oven to. 
 
+<img src="images/testrotatorybase2.gif" />
+<img src="images/rotatingbasetest.gif" />
+
 -This is the code we used for programming the electronics...
 -For now the motor is rotating very fast so we need to change the speed of the rotation and the angle so it doesn't turn complete 180 degrees but a bit less. 
+
 
 ### Build of materials
 -Servomotor FEETECH 20kg impermeable FT5323M. (4.8v- 6v)
