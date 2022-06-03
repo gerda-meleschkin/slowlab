@@ -69,12 +69,49 @@ Points of attention
 ### Build of materials
 - 2 cartridges of clay for a cooler of 15 cm diameter and 16 cm height
 
+#### Rotatory Base with sunlight tracking
 
+I started by following two tutorials for reference, one from instructables and another from a student of fabacademy previous years.
+- <a href="https://www.instructables.com/Plant-Rotator/">Automatic plant rotator with sunlight sensor.</a>
+- <a href="http://archive.fabacademy.org/fabacademy2017/fablabseoul/students/351/final.html">Automatic rotatory solar panel.</a>
+
+-We wanted to build a rotatory base in which we could put the solar oven and automatically turns looking for the sun. The idea of this base is that it can be used for different things that need the sunlight like plants or algae. At first we had the idea of using gears with the servomotor to help the base rotate easier with more weight but then we realised that the servomotor would be losing a lot of angles to turn around. In the end we decided to leave only the servomotor to rotate the base. We found a Lazy Susan bearing turntable at the FabLab and decided to use it to enable the rotation. 
 
 
 ### Design
+The Design was initially thought to be round but then when thinking about the fabrication process we decided to make it square. When we found the lazy susan wheel we decided to go back to the circular design. Circular shapes are always more tricky to make because you need a curved material. As we decided to use MDF for this prototype we just used living hinges to create the circular perimeter walls.
+
+*image of hinge
+*image of the round shape
+
 
 ### Process
+-At first we wanted the design to be a rectangle because this would make the fabrication a lot easier. After deciding to use the lazy susan we went ahead with using the round shape. So we started by taking measurements of the servomotor and lazy susan holes so we could laser cut the bases to which the lazy susan wheel would be attached. This was tricky and took some time. After having all the measurements and the layers needed we went ahead and laser cut. We got some nuts and bolts to assemble the lazy susan with the laser cut circle and electronics. 
+
+### Electronics
+-We first started testing each component individually and seeing if it works properly. These are the schematics of each of the main components. 
+
+-Servomotor
+*insert image of schematic
+
+-Photoresistor
+*insert image of schematic
+
+-After trying both the servo and the photoresistors we then worked on the code. So what we want is to measure the amount of light coming from both sensors and then analyze the difference between both values in order to tell the motor where to turn to. So the logic of this is that if there is more light in the photoresistor A than in photoresistor B then the motor whould turn to the photoresistor A. Right now we just worked with 2 photoresistors but eventually we would like to put some more so we can have different angles to turn the oven to.
+
+-This is the code we used with some comments to understand what everything is meant for. 
+
+*
+
+### Build of materials
+-Servomotor FEETECH 20kg impermeable FT5323M. (4.8v- 6v)
+-12 inch lazy susan turntable bearing
+-2 Photoresistor 2PCS 
+-Breadboard
+-ESP32 Feather
+-2 10k resistors
+-Jumping wires
+-MDF 2.5 mm 
 
 ### Build of Materials
 
