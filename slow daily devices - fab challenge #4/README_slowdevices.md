@@ -100,7 +100,7 @@ The Design was initially thought to be round but then when thinking about the fa
 -Photoresistor
 <img src="images/arduinophotoresistor.png" />
 
--After trying both the servo and the photoresistors we then worked on the code. So what we want is to measure the amount of light coming from both sensors and then analyze the difference between both values in order to tell the motor where to turn to. So the logic of this is that if there is more light in the photoresistor A than in photoresistor B then the motor whould turn to the photoresistor A. Right now we just worked with 2 photoresistors but eventually we would like to put some more so we can have different angles to turn the oven to. 
+-After trying both the servo and the photoresistors we then worked on the code. So what we want is to measure the amount of light coming from both sensors and then analyze the difference between both values in order to tell the motor where to turn to. So the logic of this is that if there is more light in the photoresistor A than in photoresistor B then the motor would turn to the photoresistor A. Right now we just worked with 2 photoresistors but eventually we would like to put some more so we can have different angles to turn the oven to. We still need to figure out a way of installing the photoresistors in the base so that the tracker can be in place and we can have the electronics inside the box. 
 
 <img src="images/testrotatorybase2.gif" />
 <img src="images/rotatingbasetest.gif" />
@@ -263,10 +263,15 @@ Next steps
 
 
 ## Dissemination plan
-
+- We would like to have a lot of our designs open source for everyone to make use of. Our goal is to create a movement and invite people to try for themselves the low-techs. With this we also intend for people to use their creativity to readapt the materials the have at hand or materials they recover into their devices. 
+<p>As of now we are trying to do some events in which we attract people into this movement and engage with the community by providing unique experiences around low-techs. We want to collaborate with other members of the community that can add up to our project as well. Eventually we would like to grow into bigger events like the festivals that happen all year round in Barcelona. For now our future plans are Modular festival, Solar Biennale, Sonar and maybe even Primavera Sound! We would also like to keep our events versatile and talk about more things than just solar ovens so people know that this is something more than just changing the way we cook. Spinning studios are also one option to collaborate with, we could plan classes in which we generate electricity from their bikes. These events are one of the ways in which we can grow and sustain our project.</p>
+<p>Another idea is to sell some of the products we designed specifically. We could sell them to anyone that wants to try these low techs by themselves and doesn't want to or has no time to build their own.</p>
 
 
 ## Setbacks
+         
+-The Majority of the setbacks we had were regarding electronics and finding specific pieces that we needed for our projects. In the case of the rotary base I struggled a lot to get right the holes of the lazy susan in the mdf laser cut piece. Also finding the right screws because they had to be a specific size so they didn't interfere with the rotation. The shape was also tricky and when cutting the living hinge for the circle's perimeter I had to scale it down because it didn't fit the laser bed. 
+       
 
 
 ## Files
