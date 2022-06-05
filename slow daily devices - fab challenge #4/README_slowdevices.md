@@ -205,27 +205,16 @@ The formula to calculate the spindle diameter is Spindle diameter = (PS*W*RPM pe
 - WS = flywheel sprocket diameter = **60mm**
 - RPM generator = the no-load RPM of the generator = **1650 at 12V**
 
-It means that to produce 12V, we need a spindle diameter of:
-
-(190*530*60)/(60*1650)= 61.03030303mm we will round it to **60mm.**
+It means that to produce 12V, we need a spindle diameter of:(190*530*60)/(60*1650)= 61.03030303mm we will round it to **60mm.**
 
 However, if we follow this manual, we need to produce more than 12V to anticipate energy losses and we will still be able to convert it to 12V with a voltage converter.
 
 So if we use this formula for 17V we have, we have the same data except for the no-load RPM which is 1650/12*17=2337
-
 (190*530*60)/(60*2337)= 43.08943089 so we will round it to **43mm.**
 
-For 15V it would be:
+For 15V it would be: No-load RPM= 1650/12*15=2063 so (190*530*60)/(60*2063)= 48.81240911 so we will round it to **48mm.**
 
-No-load RPM= 1650/12*15=2063
-
-(190*530*60)/(60*2063)= 48.81240911 so we will round it to **48mm.**
-
-For 14V it would be:
-
-No-load RPM= 1650/12*14= 1925
-
-(190*530*60)/(60*1925)= 52.31168831 so we will round it to **52mm** **.**
+For 14V it would be: No-load RPM= 1650/12*14= 1925 so (190*530*60)/(60*1925)= 52.31168831 so we will round it to **52mm** **.**
 
 Now how to make a spindle?
 We went to Cauchos Barcelona in Poblenou where they sell different components made of rubber. There we found 2 sizes:
