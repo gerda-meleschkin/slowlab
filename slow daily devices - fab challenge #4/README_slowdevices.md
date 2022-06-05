@@ -68,8 +68,8 @@ Points of attention
 ### Build of materials
 - 2 cartridges of clay for a cooler of 15 cm diameter and 16 cm height
 
-<img src="images/winecooler_design.jpg" />
-<img src="images/winecooler_setup.jpg" />
+<img src="images/winecooler_design.jpg" width="600" />
+<img src="images/winecooler_setup.jpg" width="600"/>
 <img src="images/winecooler_final.jpg" />
 
 
@@ -157,7 +157,7 @@ Then my idea was to make a low tech navigation system, which is connected with t
 4. Had problems, some parts were the other way around
 5. After soldering and changing some parts ot worked
 
-<img src="images/soldering.png" />
+<img src="images/soldering.png"/>
 <img src="images/dynamotest.gif" />
 <img src="images/chargingphonebike.gif" />
 
