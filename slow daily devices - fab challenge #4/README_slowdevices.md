@@ -39,37 +39,30 @@ We separated the tasks between us based on our interests and on the skills we wa
 We decided to focus on these devices first and work on the data collection at the end if we had some extra time.
 
 ## Clay wine cooler
-Steps:
+### Steps
 - Make a design on Rhino for a simple “vase” shape without thickness
 
-    <br>Notes:
-    Size limitations to take into account: printer plate 20x20 / kiln 20x20x15 height
-    <br>The size will reduce of about 10-15% after cooking
+    <br>Notes: I had to take into account some size limitations : the printer plate is 20x20 cm / kiln 20x20x15 cm and the size will reduce of about 10-15% after cooking.
 
     <img src="images/winecooler_design.jpg" width="700" />
 
 - Measurements : perimeter wine bottle 23-24 cm / diametre 8 cm → I will leave around 2-3 cm for water around the bottle so the wine cooler can be 13 cm diameter. + If it reduces of 10-15% when cooking I need to do it 15 cm diameter
-- In Grasshopper, I created a cylinder and a circle with the same center point and radius and merged them.
-- I "baked" the shape and opened the file with gcode for the paster printer slicer
+- In Grasshopper, create a cylinder and a circle with the same center point and radius and merge them.
+- "Bake" the shape and open the file with gcode for the paster printer slicer
 - Use the  latest version of the Grasshopper file to generate the gcode
 
 <img src="images/winecooler_setup.jpg" width="700"/>
 
 
-- Open the software "Repetier", connect it to the Ender printer and check the "z" value when we add a base. Then change this value in the Grasshopper setup.
-
+- Open the software "Repetier", connect it to the Ender printer and check the "z" value when we add a base. Then change this value in the Grasshopper setup (base offset).
 - Copy the Grasshopper code into Repetier
-
-- Preparing the machine.
-
-    - Launch the print
-During the print it is important to stay close to the printer to adjust the pre
-
-
+- Prepare the machine, the cartridges of clay and test the air pressure needed for it to go out smoothly
+- Launch the print. During the print it is important to stay close to the printer to adjust the different settings: feedrate, flowrate, air pressure and also to replace the cartridge if needed
 - Let dry for at least 2 days, cook and increase the temperature every hour, let cool down during the night
 
-Points of attention
-
+### Points of attention
+Do a printing test on a small and simple shape before to test the settings
+<br>Make sure to stay close to the printer the whole time to adjust the settings if needed. I went away 2 minutes and the first cartridge which was almost finished started to do some air bubbles and damage the piece. I had to manually flatten it again before continuing the printing.
 
 ### Build of materials
 - 2 cartridges of clay for a cooler of 15 cm diameter and 16 cm height
@@ -154,7 +147,7 @@ Then my idea was to make a low tech navigation system, which is connected with t
 <img src="images/pcb.jpg" />
 
 
-#### Eletronics
+#### Electronics
 1. I soldered the components
 2. Connected all the connections with the mulitmeter
 3. Connected the dynamo
@@ -191,6 +184,8 @@ We are creating a bike generator out of an old vintage home bike. It will be als
 
 The inspiration for this bike generator comes from Low Tech Magazine and his author Kris de Decker with whom we have been collaborating for a few months now. The manual he shared in his website has been very useful.
 <a href="https://www.lowtechmagazine.com/2022/03/how-to-build-bike-generator.html>Manual Low Tech Magazine</a>
+
+<img src="images/bikegenerator.jpg" width="700"/>
 
 
 Day 1
@@ -236,7 +231,7 @@ No-load RPM= 1650/12*14= 1925
 
 Now how to make a spindle?!
 
-We went to Cauchos Barcelona in Poblenou where they sell different compenents made of rubber. There we found 2 sizes:
+We went to Cauchos Barcelona in Poblenou where they sell different components made of rubber. There we found 2 sizes:
 
 - one with a diameter of 48mm
 - one with a diameter of 40mm which is initially a door stop
@@ -246,22 +241,26 @@ We first tried with the 48mm piece. We drilled a hole of 6.5mm in the center and
 We managed to produce around 18V with it when pedaling at a good speed without stopping.
 
 
-
 Day 3
 - The spindle from day 2 was a getting damaged by the friction so we had to change it and found a small wheel at Servei Estacio that we could attach to the motor shaft
 - We added a diode to make sure the current flows only in one direction as we are here using a motor as a generator
 - We added also a capacitor to make the voltage more steady
 - We made a small wood support to attach the motor to the bike
 
-Next steps
-- Add fruses
+<img src="images/wiring_bikegenerator.jpg" width="700"/>
+
+<img src="images/bike2.webp" width="700"/>
+
+
+### Next steps
+- Add fuses
 - Make a more stable support
 - Add a dimmer
 
 ### Build of Materials
 - Vintage second hand home bike
 - Second hand MY1016 350W 24V 2750RPM DC motor
-- Rubber “wheel”bought at Cauchos Barcelona
+- Rubber “wheels”bought at Cauchos Barcelona / and another one from Servei Estacio
 - Nut turning on the left to attach to the motor shaft
 - Conversor DC-DC adjustable 5A 75W
 - Diode 6A
