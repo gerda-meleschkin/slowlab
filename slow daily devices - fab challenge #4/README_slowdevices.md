@@ -38,20 +38,21 @@ We separated the tasks between us based on our interests and on the skills we wa
 
 We decided to focus on these devices first and work on the data collection at the end if we had some extra time.
 
-## Fabrication process
-
-### Clay wine cooler
+## Clay wine cooler
 Steps:
-    - Make a design on Rhino for a simple “vase” shape without thickness
+- Make a design on Rhino for a simple “vase” shape without thickness
+
     <br>Notes:
     Size limitations to take into account: printer plate 20x20 / kiln 20x20x15 height
     <br>The size will reduce of about 10-15% after cooking
-    - Measurements : perimeter wine bottle 23-24 cm / diametre 8 cm → I will leave around 2-3 cm for water around the bottle so the wine cooler can be 13 cm diameter. + If it reduces of 10-15% when cooking I need to do it 15 cm diameter
-    - In Grasshopper, I created a cylinder and a circle with the same center point and radius and merged them.
-    - I "baked" the shape and opened the file with gcode for the paster printer slicer
-    - Use the  latest version of the Grasshopper file to generate the gcode
-    - Open the software "Repetier", connect it to the Ender printer and check the "z" value when we add a base. Then change this value in the Grasshopper setup.
-    - Copy the Grasshopper code into Repetier
+
+- Measurements : perimeter wine bottle 23-24 cm / diametre 8 cm → I will leave around 2-3 cm for water around the bottle so the wine cooler can be 13 cm diameter. + If it reduces of 10-15% when cooking I need to do it 15 cm diameter
+- In Grasshopper, I created a cylinder and a circle with the same center point and radius and merged them.
+- I "baked" the shape and opened the file with gcode for the paster printer slicer
+- Use the  latest version of the Grasshopper file to generate the gcode
+- Open the software "Repetier", connect it to the Ender printer and check the "z" value when we add a base. Then change this value in the Grasshopper setup.
+
+- Copy the Grasshopper code into Repetier
 
 - Preparing the machine.
 
@@ -67,7 +68,10 @@ Points of attention
 ### Build of materials
 - 2 cartridges of clay for a cooler of 15 cm diameter and 16 cm height
 
-<img src="images/clayprint_winecooler.gif" />
+<img src="images/winecooler_design.jpg" />
+<img src="images/winecooler_setup.jpg" />
+<img src="images/winecooler_final.jpg" />
+
 
 
 ## Rotatory Base with sunlight tracking
@@ -80,7 +84,7 @@ I started by following two tutorials for reference, one from instructables and a
 
 
 ### Design
-The Design was initially thought to be round but then when thinking about the fabrication process we decided to make it square. When we found the lazy susan wheel we decided to go back to the circular design. Circular shapes are always more tricky to make because you need a curved material. As we decided to use MDF for this prototype we just used living hinges to create the circular perimeter walls. Eventually we would like to add the legs that would attach to the window and some way to attach the oven or planters on top that can be easily changed. 
+The Design was initially thought to be round but then when thinking about the fabrication process we decided to make it square. When we found the lazy susan wheel we decided to go back to the circular design. Circular shapes are always more tricky to make because you need a curved material. As we decided to use MDF for this prototype we just used living hinges to create the circular perimeter walls. Eventually we would like to add the legs that would attach to the window and some way to attach the oven or planters on top that can be easily changed.
 
 <img src="images/rb-sketch2.png" />
 <img src="images/livinghinge.gif" />
@@ -100,13 +104,13 @@ The Design was initially thought to be round but then when thinking about the fa
 -Photoresistor
 <img src="images/arduinophotoresistor.png" />
 
--After trying both the servo and the photoresistors we then worked on the code. So what we want is to measure the amount of light coming from both sensors and then analyze the difference between both values in order to tell the motor where to turn to. So the logic of this is that if there is more light in the photoresistor A than in photoresistor B then the motor would turn to the photoresistor A. Right now we just worked with 2 photoresistors but eventually we would like to put some more so we can have different angles to turn the oven to. We still need to figure out a way of installing the photoresistors in the base so that the tracker can be in place and we can have the electronics inside the box. 
+-After trying both the servo and the photoresistors we then worked on the code. So what we want is to measure the amount of light coming from both sensors and then analyze the difference between both values in order to tell the motor where to turn to. So the logic of this is that if there is more light in the photoresistor A than in photoresistor B then the motor would turn to the photoresistor A. Right now we just worked with 2 photoresistors but eventually we would like to put some more so we can have different angles to turn the oven to. We still need to figure out a way of installing the photoresistors in the base so that the tracker can be in place and we can have the electronics inside the box.
 
 <img src="images/testrotatorybase2.gif" />
 <img src="images/rotatingbasetest.gif" />
 
 -This is the code we used for programming the electronics...
--For now the motor is rotating very fast so we need to change the speed of the rotation and the angle so it doesn't turn complete 180 degrees but a bit less. 
+-For now the motor is rotating very fast so we need to change the speed of the rotation and the angle so it doesn't turn complete 180 degrees but a bit less.
 
 
 ### Build of materials
@@ -121,8 +125,8 @@ The Design was initially thought to be round but then when thinking about the fa
 
 ## Portable bike electricity generator
 
-I started following tutorials to make generator for a dynamo, which could provide 5V to one device though a USB connector. 
-Then my idea was to make a low tech navigation system, which is connected with the phone through bluetooth while using openstreet map. 
+I started following tutorials to make generator for a dynamo, which could provide 5V to one device though a USB connector.
+Then my idea was to make a low tech navigation system, which is connected with the phone through bluetooth while using openstreet map.
 
 
 ### Design
@@ -136,11 +140,11 @@ Then my idea was to make a low tech navigation system, which is connected with t
 1. I designed the Eschema while collecting the datasheets and check the connections
 2. I finished the PCB design with Kicad
 3. Exporting it as SVG files
-4. I	created three rml files 
+4. I	created three rml files
     	traces speed 3, 1/64 mill traces
       outline speed 1.5, 1/32 mill traces
       holes speed 3, 1/32 mill traces
-      
+
 <img src="images/pcbdesign.png" />
 <img src="images/pcb2.png" />
 <img src="images/pcb.jpg" />
@@ -159,7 +163,7 @@ Then my idea was to make a low tech navigation system, which is connected with t
 
 
 #### Case
-1. I designed i case for the generator, because i want to attach it to several bycicles 
+1. I designed i case for the generator, because i want to attach it to several bycicles
 2. I 3D printed
 
 <img src="images/design2.PNG" />
@@ -263,15 +267,15 @@ Next steps
 
 
 ## Dissemination plan
-- We would like to have a lot of our designs open source for everyone to make use of. Our goal is to create a movement and invite people to try for themselves the low-techs. With this we also intend for people to use their creativity to readapt the materials the have at hand or materials they recover into their devices. 
+- We would like to have a lot of our designs open source for everyone to make use of. Our goal is to create a movement and invite people to try for themselves the low-techs. With this we also intend for people to use their creativity to readapt the materials the have at hand or materials they recover into their devices.
 <p>As of now we are trying to do some events in which we attract people into this movement and engage with the community by providing unique experiences around low-techs. We want to collaborate with other members of the community that can add up to our project as well. Eventually we would like to grow into bigger events like the festivals that happen all year round in Barcelona. For now our future plans are Modular festival, Solar Biennale, Sonar and maybe even Primavera Sound! We would also like to keep our events versatile and talk about more things than just solar ovens so people know that this is something more than just changing the way we cook. Spinning studios are also one option to collaborate with, we could plan classes in which we generate electricity from their bikes. These events are one of the ways in which we can grow and sustain our project.</p>
 <p>Another idea is to sell some of the products we designed specifically. We could sell them to anyone that wants to try these low techs by themselves and doesn't want to or has no time to build their own.</p>
 
 
 ## Setbacks
-         
--The Majority of the setbacks we had were regarding electronics and finding specific pieces that we needed for our projects. In the case of the rotary base I struggled a lot to get right the holes of the lazy susan in the mdf laser cut piece. Also finding the right screws because they had to be a specific size so they didn't interfere with the rotation. The shape was also tricky and when cutting the living hinge for the circle's perimeter I had to scale it down because it didn't fit the laser bed. 
-       
+
+-The Majority of the setbacks we had were regarding electronics and finding specific pieces that we needed for our projects. In the case of the rotary base I struggled a lot to get right the holes of the lazy susan in the mdf laser cut piece. Also finding the right screws because they had to be a specific size so they didn't interfere with the rotation. The shape was also tricky and when cutting the living hinge for the circle's perimeter I had to scale it down because it didn't fit the laser bed.
+
 
 
 ## Files
