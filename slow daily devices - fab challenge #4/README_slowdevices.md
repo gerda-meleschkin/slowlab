@@ -46,10 +46,16 @@ Steps:
     Size limitations to take into account: printer plate 20x20 / kiln 20x20x15 height
     <br>The size will reduce of about 10-15% after cooking
 
+    <img src="images/winecooler_design.jpg" width="700" />
+
 - Measurements : perimeter wine bottle 23-24 cm / diametre 8 cm → I will leave around 2-3 cm for water around the bottle so the wine cooler can be 13 cm diameter. + If it reduces of 10-15% when cooking I need to do it 15 cm diameter
 - In Grasshopper, I created a cylinder and a circle with the same center point and radius and merged them.
 - I "baked" the shape and opened the file with gcode for the paster printer slicer
 - Use the  latest version of the Grasshopper file to generate the gcode
+
+<img src="images/winecooler_setup.jpg" width="700"/>
+
+
 - Open the software "Repetier", connect it to the Ender printer and check the "z" value when we add a base. Then change this value in the Grasshopper setup.
 
 - Copy the Grasshopper code into Repetier
@@ -68,9 +74,7 @@ Points of attention
 ### Build of materials
 - 2 cartridges of clay for a cooler of 15 cm diameter and 16 cm height
 
-<img src="images/winecooler_design.jpg" width="600" />
-<img src="images/winecooler_setup.jpg" width="600"/>
-<img src="images/winecooler_final.jpg" />
+<img src="images/winecooler_final.jpg" width="700" />
 
 
 
