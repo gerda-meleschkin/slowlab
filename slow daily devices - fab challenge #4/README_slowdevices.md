@@ -13,6 +13,9 @@ We want to explore ways in which we can live a more resilient lifestyle and try 
 ## Concept & purpose
 For this challenge, we we all interested in different topics, which we wanted to include in our MDEFests. So we worked on a collection of artefacts that can be part of the "slow" and low tech daily routines we want to promote.
 
+* Audrey bottle cooler:
+  - Clay printed wine cooler to refresh bottles using the principle of evaporation
+
 * Paula Solar energy:
   - Small version of a solar oven to attach to any window and that rotates to follow the sun
 
@@ -21,9 +24,6 @@ For this challenge, we we all interested in different topics, which we wanted to
 
 * Audrey Human energy:
   - Bike generator (static bike) for homes to power 12-24V devices at 175-350W
-
-* Audrey bottle cooler:
-  - Clay printed wine cooler to refresh bottles using the principle of evaporation
 
 * Data collection:
   - Live data: collect live data from the previous devices to control efficiency
