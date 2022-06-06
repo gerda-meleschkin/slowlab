@@ -11,7 +11,7 @@ We want to explore ways in which we can live a more resilient lifestyle and try 
 <br>
 
 ## Concept & purpose
-For this challenge, we decided to work on a collection of artefacts that can be part of the "slow" and low tech daily routines we want to promote.
+For this challenge, we we all interested in different topics, which we wanted to include in our MDEFests. So we worked on a collection of artefacts that can be part of the "slow" and low tech daily routines we want to promote.
 
 * Paula Solar energy:
   - Small version of a solar oven to attach to any window and that rotates to follow the sun
@@ -30,15 +30,7 @@ For this challenge, we decided to work on a collection of artefacts that can be 
   - Ad hoc analysis: collect data on a SD card from the sensors used on these devices to be able to create graphs or other data visualization and see efficiency levels.
 
 
-## Planning
-We separated the tasks between us based on our interests and on the skills we wanted to work on during the challenge:
-* Gerda worked on the "mobile" bike generator with the dynamo
-* Paula on the rotating stand for solar ovens (or other devices that need to follow the sun)
-* Audrey on the clay printed wine cooler and the home bike generator
-
-We decided to focus on these devices first and work on the data collection at the end if we had some extra time.
-
-## Clay wine cooler
+## Clay wine cooler (Audrey)
 ### Steps
 - Make a design on Rhino for a simple “vase” shape without thickness
 
@@ -71,7 +63,7 @@ Do a printing test on a small and simple shape before to test the settings
 
 
 
-## Rotatory Base with sunlight tracking
+## Rotatory Base with sunlight tracking (Paula)
 
 I started by following two tutorials for reference, one from instructables and another from a student of fabacademy previous years.
 - <a href="https://www.instructables.com/Plant-Rotator/">Automatic plant rotator with sunlight sensor.</a>
@@ -120,7 +112,7 @@ The Design was initially thought to be round but then when thinking about the fa
 -Jumping wires
 -MDF 2.5 mm
 
-## Portable bike electricity generator
+## Portable bike electricity generator (Gerda)
 
 I started following tutorials to make generator for a dynamo, which could provide 5V to one device though a USB connector.
 Then my idea was to make a low tech navigation system, which is connected with the phone through bluetooth while using openstreet map.
@@ -178,7 +170,7 @@ Then my idea was to make a low tech navigation system, which is connected with t
 - 1 Coil Coil 330µH
 
 
-## Home bike generator
+## Home bike generator (Audrey)
 As we are questionning our dependency towards fossile fuels and energy in general, we wanted to create a device that anybody could have at home to produce their own energy.
 We are creating a bike generator out of an old vintage home bike. It will be also used as part of our Slow Lab event, the next one being a solar brunch during MDEFest.
 
@@ -251,9 +243,6 @@ We managed to produce around 18V with it when pedaling at a good speed without s
 - Diode 6A
 
 
-
-
-
 ## Dissemination plan
 - We would like to have a lot of our designs open source for everyone to make use of. Our goal is to create a movement and invite people to try for themselves the low-techs. With this we also intend for people to use their creativity to readapt the materials the have at hand or materials they recover into their devices.
 <p>As of now we are trying to do some events in which we attract people into this movement and engage with the community by providing unique experiences around low-techs. We want to collaborate with other members of the community that can add up to our project as well. Eventually we would like to grow into bigger events like the festivals that happen all year round in Barcelona. For now our future plans are Modular festival, Solar Biennale, Sonar and maybe even Primavera Sound! We would also like to keep our events versatile and talk about more things than just solar ovens so people know that this is something more than just changing the way we cook. Spinning studios are also one option to collaborate with, we could plan classes in which we generate electricity from their bikes. These events are one of the ways in which we can grow and sustain our project.</p>
@@ -268,8 +257,6 @@ We managed to produce around 18V with it when pedaling at a good speed without s
 
 ## Files
 <a href="files\wine cooler">Wine cooler Rhino file</a>
-
-
 
 
 <br>
