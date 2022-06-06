@@ -125,12 +125,11 @@ For the LED lights we used the NeonPixel strip. We connected to ground (-), volt
 <br>
 
 ## Build of Materials
-Iteration process, spiral development
 
-NTC Thermistor
-Potentiometer
-Neopixel LED Strip that we cut and resolder to fit the circle piece that we laser cut
-100k ohm resistor for the button
+- NTC Thermistor
+- Potentiometer
+- Neopixel LED Strip that we cut and resolder to fit the circle piece that we laser cut
+- 100k ohm resistor for the button
 
 
 <br>
