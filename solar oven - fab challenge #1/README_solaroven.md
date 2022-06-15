@@ -12,8 +12,8 @@ Our research and areas of interest are about "slowing down" our way of life, pro
 <br>For this first challenge, we decided to continue in that direction and create a **solar oven**. Not just an object dedicated to camping or emergency situations, we would like to see it in our kitchens as an appliance for everyday life.
 
 <p float="left">
-  <img src="images/areasofinterest.jpg" width="500" />
-  <img src="images/projectdevelopment.jpg" width="500" />
+  <img src="images/areasofinterest.png" width="500" />
+  <img src="images/projectdevelopment.png" width="500" />
 </p>
 
 <br>
@@ -29,7 +29,7 @@ Our research and areas of interest are about "slowing down" our way of life, pro
 </p>
 *sketching*
 <br>
-<img src="images/lightresearch.jpg">
+<img src="images/lightresearch.png">
 *light reflection simulation* on <a href="https://ricktu288.github.io/ray-optics/simulator/?en">this website</a>.
 
 <br>
@@ -45,8 +45,8 @@ We created 4 different parametric designs: The outer box, the inner box, two big
 
 <p float="left">
   <img src="images/laser.jpg" width="330" />
-  <img src="images/laser2.JPG" width="330" />
-  <img src="images/gerda.jpg" width="330" />
+  <img src="images/laser2.jpg" width="330" />
+  <img src="images/gerda.JPG" width="330" />
 </p>
 
 
@@ -72,7 +72,7 @@ It was the first time we used the method cutting parts with the vinyl cutter, so
 
 <p float="left">
   <img src="images/goldmaterial.jpg" width="330" />
-  <img src="images/goldsheet.jpg" width="330" />
+  <img src="images/audrey.jpg" width="330" />
   <img src="images/goldready.jpg" width="330" />
 </p>
 
@@ -80,7 +80,7 @@ It was the first time we used the method cutting parts with the vinyl cutter, so
 
 <p float="left">
   <img src="images/silvermaterial.JPG" width="330" />
-  <img src="images/audrey.jpg" width="330" />
+  <img src="images/audrey2.jpg" width="330" />
   <img src="images/silversheet.jpg" width="330" />
 </p>
 
