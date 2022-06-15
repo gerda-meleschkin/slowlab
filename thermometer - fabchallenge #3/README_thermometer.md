@@ -125,12 +125,11 @@ For the LED lights we used the NeonPixel strip. We connected to ground (-), volt
 <br>
 
 ## Build of Materials
-Iteration process, spiral development
 
-NTC Thermistor
-Potentiometer
-Neopixel LED Strip that we cut and resolder to fit the circle piece that we laser cut
-100k ohm resistor for the button
+- NTC Thermistor
+- Potentiometer
+- Neopixel LED Strip that we cut and resolder to fit the circle piece that we laser cut
+- 100k ohm resistor for the button
 
 
 <br>
@@ -145,18 +144,17 @@ In terms of fabrication we struggled with the use of the glass. We used a recove
 <br>
 
 ## Files
-*Design and fabrication files open source or open format
 
 - <a href="https://github.com/gerda-meleschkin/slowlab/blob/main/files/Inner%20box%20-%20solar%20oven%20v4.dxf">Inner box</a>
 - <a href="https://github.com/gerda-meleschkin/slowlab/blob/main/files/slowlab_solaroven_outside_box.dxf">Outer box</a>
 - <a href="https://github.com/gerda-meleschkin/slowlab/blob/main/files/Sheets%20-%20solar%20oven.dxf">Sheets</a>
 - <a href="https://github.com/gerda-meleschkin/slowlab/blob/main/files/Slow%20lab%20writing.dxf">Label</a>
 
+- <a href="https://github.com/gerda-meleschkin/slowlab/tree/main/thermometer%20-%20fabchallenge%20%233/FILES/Code%20Thermometer/DHT_LED_THERMOMETER">Code</a>
+- <a href="https://github.com/gerda-meleschkin/slowlab/tree/main/thermometer%20-%20fabchallenge%20%233/FILES/P5JS%20dashboard/THERMO_SLOW_LAB_2022_05_18_13_53_48">P5JS dashboard</a>
 
 <br>
 
-## Photos
-*Photos of end artifact
 
 ## Our personal websites
 - <a href="https://audrey-belliot.github.io/mdef/fabacademy.html">Audrey Belliot</a>
