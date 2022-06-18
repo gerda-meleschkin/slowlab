@@ -18,6 +18,13 @@ Electronics:
 
 Boxes design:
 
+## Final result
+
+<img src="IMAGES/final1.JPG" />
+<img src="IMAGES/final2.JPG" />
+<img src="IMAGES/final3.JPG" />
+<img src="IMAGES/final4.JPG" />
+
 
 ## Our personal websites
 - <a href="https://julia-steketee.webflow.io/fabacademy">Julia Steketee</a>
