@@ -13,8 +13,8 @@ https://htmlpreview.github.io/?https://github.com/gerda-meleschkin/slowlab/blob/
 ## Files
 
 Modules design:
-- <a href="\DESIGN FILES\Rhino">Hot box modules (Rhino)</a>
-- <a href="\DESIGN FILES\CNC">Hot box modules (CNC files - NC and Rhino Cam)</a>
+- <a href="\DESIGN FILES\Rhino">hot box modules (Rhino)</a>
+- <a href="\DESIGN FILES\CNC">hot box modules (CNC files - NC and Rhino Cam)</a>
 - <a href="\DESIGN FILES\Lasercut Joints">laser cut joints</a>
 
 
